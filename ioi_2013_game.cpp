@@ -22,6 +22,7 @@ long long gcd2(long long X, long long Y) {
 
 // Start of Treap
 struct node{
+	
 	pnode l,r;
 	int prior,key;
 	ll pure,val;
@@ -157,9 +158,13 @@ ll tquery(pnode &t,int a,int b){
 
 // Start of 2d Segment Tree
 struct seg{
+
 	pnode val;
 	pseg l,r;
 	seg() : val(NULL),l(NULL),r(NULL){}
+	
+	// Updates the (x,y) cordinate value to delta
+	// Also takes care to maintain the right information on the nodes of the Segment Tree
 	void update(int left,int right,int x,int y,ll delta){
 		if(left == right){
 			insert(val,y,delta);
@@ -178,6 +183,9 @@ struct seg{
 			insert(val, y, gcd2( find((l == NULL) ? NULL : l->val, y ) , find((r == NULL) ? NULL : r->val,y) ) );
 		}
 	}
+
+
+	// Queries the range (i,j) form the Segment Tree and range(p,q) of the Treap
 	ll query(int left,int right,int i,int j,int p,int q){
 		if(left >= i && right <= j) return tquery(val,p,q);
 		int mid = (left+right)/2;
@@ -191,9 +199,11 @@ struct seg{
 			return gcd2((l == NULL) ? 0LL : l->query(left,mid,i,j,p,q),(r == NULL) ? 0LL : r->query(mid+1,right,i,j,p,q));
 		}
 	}
+
 };
 
 // End of 2d Segment Tree
+
 pseg raiz;
 int R,C;
 void init(int RR,int CC){
