@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
        	double otavio,bruno,flavio;
@@ -9,8 +8,3 @@ int main(){
        	else printf("Empate\n");
        	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 101
 int r,c,n,k,matriz[MAXN][MAXN],novamatriz[MAXN][MAXN];
@@ -48,8 +47,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

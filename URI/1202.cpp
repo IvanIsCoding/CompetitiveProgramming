@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 #define MAXN 2
@@ -58,8 +57,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

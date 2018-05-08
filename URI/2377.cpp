@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int a,b,c,d;
@@ -7,8 +6,3 @@ int main(){
 	printf("%d\n",((a/b)*d)+a*c);
 	return 0;
 }  
-
-
-
-
-

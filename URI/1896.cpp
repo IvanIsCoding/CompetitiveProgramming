@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 21
 int A[MAXN],D[MAXN],H[MAXN],n,a,d,h;
@@ -29,8 +28,3 @@ int main(){
 	printf("N\n");
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #include <cstring>
@@ -90,8 +89,3 @@ int main(){
 	printf("%d %d\n",D + solve(0,B,0), P + solve(0,B,1));
 	return 0;
 }
-
-
-
-
-

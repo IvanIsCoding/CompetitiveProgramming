@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <queue>
@@ -30,8 +29,3 @@ int main(){
 	else for(int i=0;i<lista.size();i++) printf("%d\n",lista[i]);
 	return 0;
 } 
-
-
-
-
-

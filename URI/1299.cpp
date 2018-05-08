@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 52
 int dx[4] = {1,-1,0,0};
@@ -84,8 +83,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

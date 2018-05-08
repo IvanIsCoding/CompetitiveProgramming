@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int n,c,i,total=0,excedeu=0;
@@ -16,8 +15,3 @@ int main(){
 	else printf("S\n");
 	return 0;
 } 
-
-
-
-
-

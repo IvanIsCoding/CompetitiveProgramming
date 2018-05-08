@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #include <stack>
@@ -41,8 +40,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

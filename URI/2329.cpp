@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAX 10000
 int main(){
@@ -22,8 +21,3 @@ int main(){
 	printf("%d\n",tamanho);
 	return 0;
 } 
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 long long resposta;
 int n,vetor[1000001],sequencias[9],soma;
@@ -15,8 +14,3 @@ int main(){
 	printf("%lld\n",resposta);
 	return 0;
 } 
-
-
-
-
-

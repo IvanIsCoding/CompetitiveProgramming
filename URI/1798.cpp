@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #define MAXN 200100
@@ -15,8 +14,3 @@ int main(){
 	printf("%d\n",tabela[objetivo]);
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor[1001][1001],m,n,p;
 int main(){
@@ -26,8 +25,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

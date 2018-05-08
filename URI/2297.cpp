@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main() {
 	int n, j1, j2, t1=0, t2=0, i, teste=1;
@@ -21,8 +20,3 @@ int main() {
 	}
 	return 0;
 } 
-
-
-
-
-

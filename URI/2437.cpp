@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstdlib>
 int main(){
@@ -7,8 +6,3 @@ int main(){
 	printf("%d\n",abs(x1-x2)+abs(y1-y2));
 	return 0;
 } 
-
-
-
-
-

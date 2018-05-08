@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <algorithm>
 #define endl '\n'
@@ -20,8 +19,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #include <cstring>
@@ -49,8 +48,3 @@ int main(){
 	printf("%lld\n",func(1));
 	return 0;
 }
-
-
-
-
-

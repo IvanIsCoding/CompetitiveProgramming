@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef unsigned long long llu;
 llu log2(llu n){
@@ -27,8 +26,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

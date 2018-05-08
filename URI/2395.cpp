@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #include <vector>
@@ -10,8 +9,3 @@ int main(){
 	printf("%d\n",(x/a)*(y/b)*(z/c));
 	return 0;
 } 
-
-
-
-
-

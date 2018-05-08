@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 #include <vector>
@@ -27,8 +26,3 @@ int main(){
 	cout << "Se comportaram: " << bem << " | Nao se comportaram: " << mal << endl;
 	return 0;
 }
-
-
-
-
-

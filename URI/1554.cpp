@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int TC;
@@ -19,8 +18,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

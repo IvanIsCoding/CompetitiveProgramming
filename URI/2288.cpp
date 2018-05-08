@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1001
 #define gc getchar_unlocked
@@ -44,8 +43,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cctype>
 #include <iostream>
 #include <algorithm>
@@ -29,8 +28,3 @@ int main(){
 	cout << vetor[vetor.size() - 1].normal << endl;
 	return 0;
 }
-
-
-
-
-

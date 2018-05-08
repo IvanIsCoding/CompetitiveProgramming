@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 #include <cstdio> 
@@ -28,8 +27,3 @@ int main(){
 	printf("%.2lf\n",double(soma)/double(numeros));
 	return 0;
 }
-
-
-
-
-

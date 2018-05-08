@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int resposta,k;
 int main(){
@@ -9,8 +8,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

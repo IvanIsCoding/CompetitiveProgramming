@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <queue>
@@ -47,8 +46,3 @@ int main(){
 	printf("*\n");
 	return 0;
 } 
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 110
 int problemasresolvidos[MAXN];
@@ -28,8 +27,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor[100001];
 int main(){
@@ -17,8 +16,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef int ll;
 const ll maximo = 20 * 100;
@@ -19,8 +18,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

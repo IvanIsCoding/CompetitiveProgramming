@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cmath>
 bool prime(int n){
@@ -29,8 +28,3 @@ int main(){
 	printf("%d\n",x*y);
 	return 0;
 }
-
-
-
-
-

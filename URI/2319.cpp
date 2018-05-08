@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #define MAXN 1001
@@ -45,8 +44,3 @@ int main(){
 	printf("%d\n",min(solve2(1,1),solve5(1,1)));
 	return 0;
 }
-
-
-
-
-

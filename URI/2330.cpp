@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #include <vector>
@@ -26,8 +25,3 @@ int main(){
 	for(int i=0;i<n;i++) printf("%d %d\n",resposta[i].first,resposta[i].second);
 	return 0;
 } 
-
-
-
-
-

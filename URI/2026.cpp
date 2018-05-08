@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define max(A,B) (A>B) ? (A) : (B)
 #define MAXW 1100
@@ -26,8 +25,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

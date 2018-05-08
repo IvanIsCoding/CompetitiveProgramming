@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <set>
 #define MAXN 260
@@ -44,8 +43,3 @@ int main(){
 	printf("%d %d\n",resposta1,resposta2);
 	return 0;
 }  
-
-
-
-
-

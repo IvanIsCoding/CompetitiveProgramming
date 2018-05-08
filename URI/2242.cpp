@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #include <stack>
@@ -24,8 +23,3 @@ int main(){
 	printf("S\n");
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 #define endl '\n'
@@ -46,8 +45,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

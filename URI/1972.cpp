@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 using namespace std;
@@ -61,8 +60,3 @@ int main(){
 	printf("ARTSKJID\n");
 	return 0;
 }
-
-
-
-
-

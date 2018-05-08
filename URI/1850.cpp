@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cctype>
 #include <cstring>
@@ -66,8 +65,3 @@ int main(){
 	printf("--\n");
 	return 0;
 }
-
-
-
-
-

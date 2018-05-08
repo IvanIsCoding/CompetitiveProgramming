@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #define MP make_pair
@@ -20,8 +19,3 @@ int main(){
 	for(int i=0;i<3;i++) {printf("%d\n",heap.top().second);heap.pop();}
 	return 0;
 } 
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int a,i,resp=0,pos=0;
@@ -15,8 +14,3 @@ int main(){
 	printf("Menor valor: %d\nPosicao: %d\n",resp,pos);
 	return 0;
 }
-
-
-
-
-

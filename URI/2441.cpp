@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 601
 int vetor[MAXN];
@@ -17,8 +16,3 @@ int main(){
 	printf("%d\n",resposta*100);
 	return 0;
 }
-
-
-
-
-

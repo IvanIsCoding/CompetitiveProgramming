@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 100001
 int pai[MAXN],peso[MAXN],n,m,seguro;
@@ -48,8 +47,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

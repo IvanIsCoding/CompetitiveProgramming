@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #define gc getchar_unlocked
@@ -34,8 +33,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

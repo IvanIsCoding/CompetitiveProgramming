@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int gcd(int x, int y){
 	if(x<y){ 
@@ -41,8 +40,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

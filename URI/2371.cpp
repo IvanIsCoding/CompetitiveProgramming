@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <set>
@@ -66,8 +65,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

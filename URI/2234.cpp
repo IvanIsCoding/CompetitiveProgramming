@@ -1,4 +1,3 @@
-
 #include <cstdio>
 double a,b;
 int main(){
@@ -6,8 +5,3 @@ int main(){
 	printf("%.2lf\n",a/b);
 	return 0;
 }
-
-
-
-
-

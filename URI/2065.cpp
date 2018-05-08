@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #include <algorithm>
@@ -26,8 +25,3 @@ int main(){
 	printf("%d\n",momento);
 	return 0;
 }
-
-
-
-
-

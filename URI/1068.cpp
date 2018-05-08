@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 int main(){
@@ -18,8 +17,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

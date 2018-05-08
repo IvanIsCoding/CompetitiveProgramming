@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor1[10], vetor2[10];
 int main(){
@@ -11,8 +10,3 @@ int main(){
 	printf("Y\n");
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1010
 int caixas[11],c,n,resposta,disponivel,t,d;
@@ -23,8 +22,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 }  
-
-
-
-
-

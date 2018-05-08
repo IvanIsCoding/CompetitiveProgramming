@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #include <vector>
@@ -57,8 +56,3 @@ int main(){
 	printf("%d\n",dfs_custo(1) - dfs_maior(1));
 	return 0;
 }
-
-
-
-
-

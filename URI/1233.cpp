@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef long long ll;
 ll phi(ll n){
@@ -19,8 +18,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

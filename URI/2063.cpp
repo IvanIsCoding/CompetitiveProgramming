@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 typedef long long ll;
@@ -24,8 +23,3 @@ int main(){
 	printf("%lld\n",multiplo);
 	return 0;
 }
-
-
-
-
-

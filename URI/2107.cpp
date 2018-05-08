@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int X[5],Y[5],Z[5];
 inline int simplifica(int k){
@@ -31,8 +30,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

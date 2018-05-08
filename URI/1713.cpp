@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 100
 #define MODULO 10000
@@ -54,8 +53,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

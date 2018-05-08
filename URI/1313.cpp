@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 typedef long long ll;
@@ -79,8 +78,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

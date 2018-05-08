@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 51
 int matriz[MAXN][MAXN],processado[MAXN],visitados,n,m;
@@ -43,8 +42,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int n,soma=0;
@@ -11,8 +10,3 @@ int main(){
 	printf("%d\n",soma - n);
 	return 0;
 } 
-
-
-
-
-

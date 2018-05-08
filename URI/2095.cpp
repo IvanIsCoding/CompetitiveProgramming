@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <set>
 #define endl '\n'
@@ -36,8 +35,3 @@ int main(){
 	cout << resposta << endl;
 	return 0;
 }
-
-
-
-
-

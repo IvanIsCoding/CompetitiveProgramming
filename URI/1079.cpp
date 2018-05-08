@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	int ordem,i;
@@ -10,8 +9,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

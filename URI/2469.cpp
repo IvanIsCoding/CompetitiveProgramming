@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <map>
 using namespace std;
@@ -22,8 +21,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 }  
-
-
-
-
-

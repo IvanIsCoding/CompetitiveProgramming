@@ -1,4 +1,3 @@
-
 #include <iostream>
 #define endl '\n'
 #define A11 first
@@ -42,8 +41,3 @@ int main(){
 	}
 	return 0;
 } 
-
-
-
-
-

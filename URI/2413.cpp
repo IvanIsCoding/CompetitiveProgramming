@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int a;
@@ -6,8 +5,3 @@ int main(){
 	printf("%d\n",4*a);
 	return 0;
 }   
-
-
-
-
-

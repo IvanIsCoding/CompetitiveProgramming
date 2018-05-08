@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int resp=0,casos,i;
@@ -11,8 +10,3 @@ int main(){
 	printf("%d\n",resp);
 	return 0;
 }
-
-
-
-
-

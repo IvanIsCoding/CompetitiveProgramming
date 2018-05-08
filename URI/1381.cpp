@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MODULO 1300031LL
 #define MAXN 2000010
@@ -33,8 +32,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

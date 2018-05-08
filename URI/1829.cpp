@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cmath>
 #define MAXVAL 10001
@@ -39,8 +38,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

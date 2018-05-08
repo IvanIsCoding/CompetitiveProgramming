@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <map>
 #define MAXN 100100
@@ -21,8 +20,3 @@ int main(){
 	printf("%lld\n",max(maximo_ate_agora,invertido_ate_agora+somavetor));
 	return 0;
 } 
-
-
-
-
-

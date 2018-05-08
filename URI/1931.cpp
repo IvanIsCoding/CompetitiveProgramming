@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <queue>
@@ -59,8 +58,3 @@ int main(){
 	if (!sucesso) printf("-1\n");
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <algorithm>
 #define MAXN 201
@@ -46,8 +45,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

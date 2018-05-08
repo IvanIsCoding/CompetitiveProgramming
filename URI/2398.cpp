@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstdlib>
 #include <algorithm>
@@ -39,8 +38,3 @@ int main(){
 	else printf("-1 -1\n");
 	return 0;
 } 
-
-
-
-
-

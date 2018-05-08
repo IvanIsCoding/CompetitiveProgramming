@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #include <deque>
@@ -24,8 +23,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 }
-
-
-
-
-

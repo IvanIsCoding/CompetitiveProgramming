@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #define MAX 2020
@@ -64,8 +63,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

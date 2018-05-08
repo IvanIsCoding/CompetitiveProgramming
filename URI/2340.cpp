@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cmath>
 int main(){
@@ -17,8 +16,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

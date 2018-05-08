@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cmath>
 #include <cstring>
@@ -36,8 +35,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

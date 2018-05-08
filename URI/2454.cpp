@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int p,r;
@@ -10,8 +9,3 @@ int main(){
 	else printf("C\n");
 	return 0;
 }   
-
-
-
-
-

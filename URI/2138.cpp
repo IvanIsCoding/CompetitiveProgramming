@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 int frequencia[1000];
@@ -21,8 +20,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef long long ll;
 ll gcd(ll a,ll b){
@@ -30,8 +29,3 @@ int main(){
 	printf("%lld\n",resp);
 	return 0;
 }
-
-
-
-
-

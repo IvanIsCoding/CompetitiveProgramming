@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 61000
 #define DISTANCIA 60000000
@@ -21,8 +20,3 @@ int main(){
 	printf("%d h / %d d\n",DISTANCIA/resposta,DISTANCIA/(resposta*24));
 	return 0;
 }
-
-
-
-
-

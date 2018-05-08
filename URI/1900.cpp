@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <unordered_map>
 using namespace std;
@@ -29,8 +28,3 @@ int main(){
 	printf("%lld\n",resp);
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef long long ll;
 ll exp(ll n){
@@ -15,8 +14,3 @@ int main(){
 	printf("%lld\n",exp(entrada));
 	return 0;
 }
-
-
-
-
-

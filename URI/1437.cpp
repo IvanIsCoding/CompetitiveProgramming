@@ -1,4 +1,3 @@
-
 #include <cstdio>
 char entrada[1001];
 int main(){
@@ -28,8 +27,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

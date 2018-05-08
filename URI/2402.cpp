@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef unsigned long long llu;
 int main(){
@@ -15,8 +14,3 @@ int main(){
 	printf("N\n");
 	return 0;
 } 
-
-
-
-
-

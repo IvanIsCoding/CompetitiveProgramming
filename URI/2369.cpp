@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int a;
@@ -9,8 +8,3 @@ int main(){
 	else printf("%d\n",167+(a-100)*5);
 	return 0;
 } 
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <map>
 #include <algorithm>
@@ -77,8 +76,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

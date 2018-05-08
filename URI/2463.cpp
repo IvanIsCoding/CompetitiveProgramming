@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 using namespace std;
@@ -13,8 +12,3 @@ int main(){
     printf("%d\n",m2);
     return 0;
 }
-
-
-
-
-

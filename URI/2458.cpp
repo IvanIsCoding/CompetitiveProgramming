@@ -1,4 +1,3 @@
-
 #include <cstdio>
 using namespace std;
 #define MAXN 550
@@ -32,8 +31,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

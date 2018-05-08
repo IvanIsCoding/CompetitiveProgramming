@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #define MP make_pair
@@ -26,8 +25,3 @@ int main(){
 	printf("%d %d\n",x,y);
 	return 0;
 }
-
-
-
-
-

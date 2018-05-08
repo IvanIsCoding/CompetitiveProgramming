@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define max(A,B) (A>B) ? (A) : (B)
 int main(){
@@ -17,8 +16,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

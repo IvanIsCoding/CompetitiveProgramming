@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 char entrada[100010];
@@ -16,8 +15,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

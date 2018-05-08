@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main() {
 	char nome[100];
@@ -9,8 +8,3 @@ int main() {
 	printf("TOTAL = R$ %.2lf\n",a+0.15*b);
 	return 0;
 }
-
-
-
-
-

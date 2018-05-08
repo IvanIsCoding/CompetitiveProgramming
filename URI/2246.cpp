@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 201
 int dx[4] = {1,-1,0,0};
@@ -36,8 +35,3 @@ int main(){
 	printf("%d\n",resp);
 	return 0;
 }
-
-
-
-
-

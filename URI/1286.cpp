@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 #define MAXN 1010
 using namespace std;
@@ -26,8 +25,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 int soma[6000];
@@ -26,8 +25,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

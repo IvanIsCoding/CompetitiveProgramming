@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	char davez;
@@ -17,8 +16,3 @@ int main(){
 	printf("\n");
 	return 0;
 } 
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int n,resposta=0,a;
@@ -11,8 +10,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

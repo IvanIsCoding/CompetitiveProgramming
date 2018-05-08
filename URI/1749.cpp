@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #include <algorithm>
@@ -77,8 +76,3 @@ int main(){
 	printf("%d\n",resp);
 	return 0;
 }
-
-
-
-
-

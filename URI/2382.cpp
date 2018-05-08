@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int a,b,c,d;
@@ -7,8 +6,3 @@ int main(){
 	printf("%c\n",a*a + b*b + c*c <= d*d ? 'S' : 'N');
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
@@ -33,8 +32,3 @@ int main(){
 	printf("%d\n",func(n,fitas[1],fitas[2],fitas[3]));
 	return 0;
 }
-
-
-
-
-

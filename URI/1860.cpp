@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #include <cmath>
@@ -29,8 +28,3 @@ int main(){
 	printf("%.2lf %.2lf\n",ini,func(ini));
 	return 0;
 }
-
-
-
-
-

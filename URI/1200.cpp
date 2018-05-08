@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 #include <set>
@@ -99,8 +98,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

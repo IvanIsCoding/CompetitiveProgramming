@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <stack>
@@ -98,8 +97,3 @@ int main(){
 	printf("Bolada\n");
 	return 0;
 }
-
-
-
-
-

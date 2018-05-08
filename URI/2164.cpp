@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 60
 double sequencia[MAXN];
@@ -14,8 +13,3 @@ int main(){
 	printf("%.1lf\n",funcao(n));
 	return 0;
 }
-
-
-
-
-

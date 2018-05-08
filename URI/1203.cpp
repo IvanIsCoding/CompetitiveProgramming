@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXR 101
 #define MAXK 10010
@@ -32,8 +31,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

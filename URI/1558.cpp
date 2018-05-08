@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 30000
 bool vetor[MAXN];
@@ -17,8 +16,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

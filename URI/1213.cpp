@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int v[10001];
 int main(){
@@ -4009,8 +4008,3 @@ v[9999] = 36;
 	}
 	return 0;
 }
-
-
-
-
-

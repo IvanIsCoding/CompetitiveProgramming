@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int dp[110];
 int main(){
@@ -11,8 +10,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

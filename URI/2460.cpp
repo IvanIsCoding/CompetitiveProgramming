@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <set>
 #define MAX 50010 
@@ -23,8 +22,3 @@ int main(){
 	printf("\n");
 	return 0;
 }
-
-
-
-
-

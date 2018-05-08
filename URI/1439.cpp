@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 int contador[10];
@@ -94,8 +93,3 @@ int main(){
     }
     return 0;
 } 
-
-
-
-
-

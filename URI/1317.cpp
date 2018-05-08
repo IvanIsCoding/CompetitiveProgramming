@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <vector>
 #define MAXN 21
@@ -56,8 +55,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

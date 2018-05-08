@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MENOSINFINITO -2147483647
 int main(){
@@ -13,8 +12,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 }
-
-
-
-
-

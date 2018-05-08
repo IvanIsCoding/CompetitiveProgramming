@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int val[100];
@@ -30,8 +29,3 @@ int main(){
 	printf("%d %d\n",pt1,pt2);
 	return 0;
 }
-
-
-
-
-

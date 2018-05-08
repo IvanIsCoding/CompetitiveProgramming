@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <stack>
@@ -49,8 +48,3 @@ int main(){
 	printf("S\n");
 	return 0;
 } 
-
-
-
-
-

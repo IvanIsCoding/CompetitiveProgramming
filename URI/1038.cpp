@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	int a,b;
@@ -19,8 +18,3 @@ int main(){
 	printf ("Total: R$ %.2lf\n",b*c);
 	return 0;
 }
-
-
-
-
-

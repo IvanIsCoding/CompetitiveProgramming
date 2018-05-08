@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define INF 10010
 #define NEGINF -INF
@@ -20,8 +19,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

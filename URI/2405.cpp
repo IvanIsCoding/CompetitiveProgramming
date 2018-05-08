@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #define MAXN 210
@@ -27,8 +26,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

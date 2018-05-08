@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int casos,caso;
@@ -18,8 +17,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int ordema,ordemb,i,j;
@@ -34,8 +33,3 @@ int main(){
 	printf("S\n");
 	return 0;
 } 
-
-
-
-
-

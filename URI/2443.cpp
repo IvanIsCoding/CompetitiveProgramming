@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 using namespace std;
@@ -16,8 +15,3 @@ int main(){
 	printf("%d %d\n",cima/mdc,debaixo/mdc);
 	return 0;
 }
-
-
-
-
-

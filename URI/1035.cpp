@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	int a,b,c,d;
@@ -7,8 +6,3 @@ int main(){
 	else printf("Valores nao aceitos\n");
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <algorithm>
 #define endl '\n'
@@ -12,8 +11,3 @@ int main(){
 	cout << numero << endl;
 	return 0;
 }
-
-
-
-
-

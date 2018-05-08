@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main() {
 	int nota;
@@ -20,8 +19,3 @@ int main() {
 	}
 	return 0;
 }
-
-
-
-
-

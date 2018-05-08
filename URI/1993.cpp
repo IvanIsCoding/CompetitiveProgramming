@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #include <cmath>
@@ -30,8 +29,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

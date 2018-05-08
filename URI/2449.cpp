@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cmath>
 #include <algorithm>
@@ -15,8 +14,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

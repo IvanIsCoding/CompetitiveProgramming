@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 102
 int matriz[MAXN][MAXN],processado[MAXN][MAXN],n,xo,yo,resp;
@@ -26,8 +25,3 @@ int main(){
 	printf("%d\n",resp);
 	return 0;
 }
-
-
-
-
-

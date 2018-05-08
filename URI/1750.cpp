@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstdlib>
 #include <deque>
@@ -34,8 +33,3 @@ int main(){
 	printf("%d\n",referencia);
 	return 0;
 }
-
-
-
-
-

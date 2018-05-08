@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1001
 int abs(int x){
@@ -27,8 +26,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

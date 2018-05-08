@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1010
 int n,saida[MAXN],pilha[MAXN],tam;
@@ -29,8 +28,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

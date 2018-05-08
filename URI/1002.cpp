@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 using namespace std;
@@ -9,8 +8,3 @@ int main() {
     printf("A=%.4lf\n",3.14159*r*r);
     return 0;
 }
-
-
-
-
-

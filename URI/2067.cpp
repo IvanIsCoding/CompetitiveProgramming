@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 201
 int possivel[MAXN],soma[MAXN][MAXN],n,m;
@@ -35,8 +34,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

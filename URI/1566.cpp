@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define gc getchar_unlocked
 void getint(int &x){
@@ -36,8 +35,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

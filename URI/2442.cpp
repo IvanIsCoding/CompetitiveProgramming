@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 100010
 #define MAXA 110
@@ -26,8 +25,3 @@ int main(){
 	printf("%lld\n",resp);
 	return 0;
 }
-
-
-
-
-

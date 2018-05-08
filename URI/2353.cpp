@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef long long ll;
 bool isprime(ll x){
@@ -21,8 +20,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

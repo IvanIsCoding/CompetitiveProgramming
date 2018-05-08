@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1030
 int n,m,resposta;
@@ -24,8 +23,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 }
-
-
-
-
-

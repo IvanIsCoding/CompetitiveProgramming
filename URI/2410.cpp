@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <set>
 using namespace std;
@@ -15,8 +14,3 @@ int main(){
 	cout << (int)notas.size() << endl;
 	return 0;
 } 
-
-
-
-
-

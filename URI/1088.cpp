@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 100100
 #define LSOne(S) (S & (-S)) 
@@ -43,9 +42,4 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-
 

@@ -1,4 +1,3 @@
-
 #include <iostream>
  
 using namespace std;
@@ -12,8 +11,3 @@ int main() {
     printf("DIFERENCA = %d\n",(a*b)-(c*d));
     return 0;
 }
-
-
-
-
-

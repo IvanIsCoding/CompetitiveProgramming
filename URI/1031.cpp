@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <deque>
 #define MAXN 301
@@ -34,8 +33,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define max(A,B) (A>B) ? (A) : (B)
 int linha[110],coluna[110],resposta;
@@ -18,8 +17,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

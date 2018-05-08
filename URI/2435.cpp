@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int a,b,c,d,e,f;
@@ -8,8 +7,3 @@ int main(){
 	else printf("%d\n",d);
 	return 0;
 }   
-
-
-
-
-

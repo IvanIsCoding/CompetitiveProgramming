@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 #include <unordered_map>
@@ -59,8 +58,3 @@ int main(){
 	cout << resposta << endl;
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1001
 char pilha[MAXN];
@@ -28,8 +27,3 @@ int main(){
 	printf("%d\n",resp);
 	return 0;
 }
-
-
-
-
-

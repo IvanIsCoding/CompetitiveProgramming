@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 #define MAX 100010 
@@ -46,8 +45,3 @@ int main(){
 	}
 	return 0;
 } 
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	double x;
@@ -12,8 +11,3 @@ int main(){
 	else printf("Fora de intervalo\n");
 	return 0;
 }
-
-
-
-
-

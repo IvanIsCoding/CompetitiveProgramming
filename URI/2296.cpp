@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <algorithm>
@@ -30,8 +29,3 @@ int main(){
 	printf("%d\n",trilhas[0].second);
 	return 0;
 } 
-
-
-
-
-

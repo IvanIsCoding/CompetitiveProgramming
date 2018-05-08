@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor[10010];
 int main(){
@@ -15,8 +14,3 @@ int main(){
 	printf("S\n");
 	return 0;
 } 
-
-
-
-
-

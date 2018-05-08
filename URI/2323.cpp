@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <set>
@@ -35,8 +34,3 @@ int main(){
 	else printf("bem\n");
 	return 0;
 } 
-
-
-
-
-

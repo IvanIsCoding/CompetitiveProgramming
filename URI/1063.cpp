@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAX 30
 int n,tam;
@@ -33,8 +32,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

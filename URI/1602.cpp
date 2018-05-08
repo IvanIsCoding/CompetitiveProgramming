@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 2000001
 int soma[MAXN],divisores[MAXN];
@@ -29,8 +28,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

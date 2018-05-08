@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	double a,b,c,d;
@@ -16,8 +15,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

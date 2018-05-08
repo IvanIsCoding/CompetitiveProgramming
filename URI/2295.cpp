@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	double a,g,ra,rg;
@@ -7,8 +6,3 @@ int main(){
 	else printf("G\n");
 	return 0;
 }   
-
-
-
-
-

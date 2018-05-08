@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main() {
 	int entrada,resp=0,temporario=1,anterior,count=0;
@@ -24,8 +23,3 @@ int main() {
 	printf("%d\n",resp);
 	return 0;
 } 
-
-
-
-
-

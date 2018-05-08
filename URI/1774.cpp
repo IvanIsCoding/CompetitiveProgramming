@@ -1,4 +1,3 @@
-
 #include <algorithm>
 #include <cstdio>
 #define MAX 300
@@ -40,8 +39,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 }
-
-
-
-
-

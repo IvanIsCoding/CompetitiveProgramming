@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <set>
 using namespace std;
@@ -35,8 +34,3 @@ int main(){
 	printf("sim\n");
 	return 0;
 } 
-
-
-
-
-

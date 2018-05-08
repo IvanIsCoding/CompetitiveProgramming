@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cmath>
 int main(){
@@ -25,8 +24,3 @@ int main(){
 	printf("-1\n");
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXT 1010
 int fila[MAXT],ini=1,fim;
@@ -26,8 +25,3 @@ int main(){
 		printf("\nRemaining card: %d\n", front());	
 	}
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #define MP make_pair
@@ -53,8 +52,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

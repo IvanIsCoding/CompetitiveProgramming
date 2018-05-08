@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <set>
 #include <algorithm>
@@ -43,8 +42,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 }  
-
-
-
-
-

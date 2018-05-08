@@ -1,4 +1,3 @@
-
 #include <iostream>
 #define endl '\n'
 using namespace std;
@@ -40,8 +39,3 @@ int main(){
 	cout << dalila << " " << eloi << " " << felix << endl;
 	return 0;
 } 
-
-
-
-
-

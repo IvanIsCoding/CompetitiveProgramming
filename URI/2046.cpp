@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstdlib>
 #define MAXN 1000010
@@ -43,8 +42,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

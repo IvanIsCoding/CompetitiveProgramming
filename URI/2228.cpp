@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 110
 #define MAXL 11000
@@ -39,8 +38,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <algorithm>
@@ -71,8 +70,3 @@ int main(){
 	printf("%lld\n",resposta);
 	return 0;
 }
-
-
-
-
-

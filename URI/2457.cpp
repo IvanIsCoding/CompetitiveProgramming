@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <iomanip>
 #include <cstdio>
@@ -29,8 +28,3 @@ int main(){
 	printf("%.1lf\n",(100.0*contem)/(1.0*total));
 	return 0;
 }  
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #define MAXN 6001
@@ -40,8 +39,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

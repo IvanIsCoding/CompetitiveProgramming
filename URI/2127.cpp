@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #define MAXN 1100
@@ -77,8 +76,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

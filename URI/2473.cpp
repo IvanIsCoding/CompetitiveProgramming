@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int sorteado[8],seus[8],resp;
 int main(){
@@ -20,8 +19,3 @@ int main(){
 	else printf("sena\n");
 	return 0;
 }
-
-
-
-
-

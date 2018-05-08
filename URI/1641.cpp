@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int pizza;
 int main(){
@@ -12,8 +11,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	double x,y;
@@ -12,8 +11,3 @@ int main(){
 	else printf("Q4\n");
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef long long ll;
 ll resposta;
@@ -13,8 +12,3 @@ int main(){
 	printf("%lld\n",resposta);
 	return 0;
 } 
-
-
-
-
-

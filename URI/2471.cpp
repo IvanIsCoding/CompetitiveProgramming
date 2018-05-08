@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 52
 int matriz[MAXN][MAXN];
@@ -38,8 +37,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

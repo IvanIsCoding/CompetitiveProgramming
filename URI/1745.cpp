@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef long long ll;
 ll total[4],resp,soma;
@@ -24,8 +23,3 @@ int main(){
 	printf("%lld\n",resp);
 	return 0;
 }
-
-
-
-
-

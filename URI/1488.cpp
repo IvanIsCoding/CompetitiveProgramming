@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int n,instancia=0;
@@ -27,8 +26,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

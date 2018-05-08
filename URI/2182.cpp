@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <algorithm>
@@ -60,8 +59,3 @@ int main(){
 	printf("%d\n",resp);
 	return 0;
 }
-
-
-
-
-

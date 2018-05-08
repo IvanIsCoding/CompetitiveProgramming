@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cctype>
 int main(){
@@ -14,8 +13,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

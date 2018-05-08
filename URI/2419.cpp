@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1010
 char matriz[MAXN][MAXN];
@@ -12,8 +11,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main() {
 	int a,b;
@@ -9,8 +8,3 @@ int main() {
 	else if( 97 <= b && b <= 100 ) printf( "cheia\n" );
 	return 0;
 }
-
-
-
-
-

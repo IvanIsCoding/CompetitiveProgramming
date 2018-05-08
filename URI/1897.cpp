@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #include <set>
@@ -29,8 +28,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

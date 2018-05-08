@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 #include <queue>
@@ -59,8 +58,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

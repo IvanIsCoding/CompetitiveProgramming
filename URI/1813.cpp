@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #include <vector>
@@ -60,8 +59,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	long long x,y,pontos,contador=0;
@@ -16,8 +15,3 @@ int main(){
 	printf("\n");
 	return 0;
 }
-
-
-
-
-

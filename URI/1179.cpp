@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int par[5],impar[5];
@@ -35,8 +34,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

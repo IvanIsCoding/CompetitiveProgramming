@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #define MAXN 10010
@@ -58,8 +57,3 @@ int main(){
 	printf("%d %lld\n",conjuntos,resposta);
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstdlib>
 int main(){
@@ -15,8 +14,3 @@ int main(){
 	printf("%d %d\n",q,r);
 	return 0;
 }
-
-
-
-
-

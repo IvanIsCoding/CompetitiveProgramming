@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 #define MAXN 40100
@@ -41,8 +40,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

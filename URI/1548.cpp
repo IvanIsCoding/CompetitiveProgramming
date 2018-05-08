@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 int vetorzao[1010],auxiliar[1010];
@@ -25,8 +24,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cmath>
 typedef long long ll;
@@ -32,8 +31,3 @@ int main(){
 	printf("%lld\n",exibir);
 	return 0;
 }
-
-
-
-
-

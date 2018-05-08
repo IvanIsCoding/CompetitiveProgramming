@@ -1,4 +1,3 @@
-
 #include <iostream>
  
 using namespace std;
@@ -11,8 +10,3 @@ int main() {
     else printf("%d eh o maior\n",c);
     return 0;
 }
-
-
-
-
-

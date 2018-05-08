@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1001010
 int dp[MAXN],proibido[MAXN],n,m;
@@ -23,8 +22,3 @@ int main(){
 	else printf("Carlos\n");
 	return 0;
 }
-
-
-
-
-

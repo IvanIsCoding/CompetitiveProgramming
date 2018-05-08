@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 typedef unsigned long long int llu;
@@ -15,8 +14,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

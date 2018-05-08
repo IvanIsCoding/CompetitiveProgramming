@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 #define endl '\n'
@@ -15,8 +14,3 @@ int main(){
        	else cout << "1" << endl;
        	return 0;
 }
-
-
-
-
-

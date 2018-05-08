@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	int x;
@@ -10,8 +9,3 @@ int main(){
 	printf("Acesso Permitido\n");
 	return 0;
 }
-
-
-
-
-

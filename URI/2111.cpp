@@ -1,4 +1,3 @@
-
 #include <cstdio>
 char matriz[10][10];
 void seta0(int pos){
@@ -128,8 +127,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

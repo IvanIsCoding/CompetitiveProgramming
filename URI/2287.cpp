@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 int possivel[6][11],digito1[20],digito2[20],n,teste;
@@ -30,8 +29,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 using namespace std;
@@ -21,8 +20,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 #include <cctype>
@@ -25,8 +24,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

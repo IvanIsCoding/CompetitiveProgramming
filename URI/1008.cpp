@@ -1,4 +1,3 @@
-
 #include <iostream>
  
 using namespace std;
@@ -12,8 +11,3 @@ int main() {
     printf("NUMBER = %d\nSALARY = U$ %.2lf\n",a,b*c);
     return 0;
 }
-
-
-
-
-

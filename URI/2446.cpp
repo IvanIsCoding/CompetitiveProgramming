@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int n,alvo,tab[1010][100010],moedas[1010];
 char resposta;
@@ -24,8 +23,3 @@ int main(){
 	printf("%c\n",resposta);
 	return 0;
 } 
-
-
-
-
-

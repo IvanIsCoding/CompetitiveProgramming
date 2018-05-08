@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
@@ -27,8 +26,3 @@ int main(){
 	printf("%d\n",func(6,6,0));
 	return 0;
 }
-
-
-
-
-

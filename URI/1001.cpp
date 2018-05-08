@@ -1,4 +1,3 @@
-
 #include <iostream>
  
 using namespace std;
@@ -10,8 +9,3 @@ int main() {
     printf("X = %d\n",a+b);
     return 0;
 }
-
-
-
-
-

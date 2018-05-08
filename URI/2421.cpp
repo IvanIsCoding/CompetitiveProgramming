@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int a,b,c,d,e,f;
@@ -13,8 +12,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

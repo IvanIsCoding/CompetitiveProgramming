@@ -1,4 +1,3 @@
-
 #include <vector>
 #include <iostream>
 #include <algorithm>
@@ -15,8 +14,3 @@ int main(){
 	cout << nomes[b-1] << endl;
 	return 0;
 } 
-
-
-
-
-

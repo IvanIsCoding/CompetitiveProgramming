@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1001
 int grafo[MAXN][MAXN],grau[MAXN],cor[MAXN],qtd1[MAXN],qtd2[MAXN],componente,processado[MAXN],n,m;
@@ -49,8 +48,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

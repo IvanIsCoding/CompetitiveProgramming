@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int n,m;
@@ -9,8 +8,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

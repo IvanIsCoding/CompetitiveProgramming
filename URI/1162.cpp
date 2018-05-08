@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <set>
 #include <iterator>
@@ -20,8 +19,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

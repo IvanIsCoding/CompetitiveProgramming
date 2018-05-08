@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 #define MAXN 270030
@@ -71,8 +70,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

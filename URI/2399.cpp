@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor[1010];
 int main(){
@@ -16,8 +15,3 @@ int main(){
 	for(int i=1;i<=n;i++) printf("%d\n",vetor[i]);
 	return 0;
 } 
-
-
-
-
-

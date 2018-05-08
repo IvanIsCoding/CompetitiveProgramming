@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <queue>
 #include <algorithm>
@@ -62,8 +61,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

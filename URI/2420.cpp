@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int i,a,resp=0;
@@ -17,8 +16,3 @@ int main(){
 		}
 	}
 } 
-
-
-
-
-

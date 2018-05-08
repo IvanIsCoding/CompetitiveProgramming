@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	int a,b;
@@ -7,8 +6,3 @@ int main(){
 	else printf("Nao sao Multiplos\n");
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 using namespace std;
@@ -21,8 +20,3 @@ int main(){
 	else printf("a\n");
 	return 0;
 } 
-
-
-
-
-

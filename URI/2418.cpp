@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <algorithm>
 using namespace std;
@@ -12,8 +11,3 @@ int main(){
 	printf("%.1lf\n",notas[1]+notas[2]+notas[3]);
 	return 0;
 } 
-
-
-
-
-

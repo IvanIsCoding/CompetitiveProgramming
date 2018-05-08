@@ -1,4 +1,3 @@
-
 #include <cstdio>
 long long int resp[50],fib[50];
 long long int fibo(int x){
@@ -30,8 +29,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

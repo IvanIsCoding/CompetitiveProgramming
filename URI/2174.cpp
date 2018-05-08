@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <set>
 #include <string>
@@ -18,8 +17,3 @@ int main(){
        	cout << "Falta(m) " << 151 - pokemons.size() << " pomekon(s)." << endl;
        	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <unordered_map>
 #define MAXN 100001
@@ -30,8 +29,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

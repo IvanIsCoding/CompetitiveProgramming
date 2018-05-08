@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int primeiro[10000];
@@ -14,8 +13,3 @@ int main(){
 	printf("0\n");
 	return 0;
 }
-
-
-
-
-

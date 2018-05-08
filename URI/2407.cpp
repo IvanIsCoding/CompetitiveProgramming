@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAX_N 1000
 int main(){
@@ -39,8 +38,3 @@ int main(){
 	printf("%d\n",referencia);
 	return 0;
 } 
-
-
-
-
-

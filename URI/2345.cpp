@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstdlib>
 #include <algorithm>
@@ -15,8 +14,3 @@ int main(){
 	printf("%d\n",pos1);
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int paineis[101],caminhoes,frete,totalpaineis;
 int checa(int peso){
@@ -40,8 +39,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

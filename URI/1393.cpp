@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 int dp[50],vis[50],n;
@@ -17,8 +16,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

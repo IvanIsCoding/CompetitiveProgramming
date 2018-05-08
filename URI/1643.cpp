@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #define MAXIMUM 25001
@@ -25,8 +24,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 typedef long long ll;
 const int MAXN = 1e3 + 1;
@@ -25,8 +24,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

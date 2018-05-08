@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 1001
 typedef long long ll;
@@ -101,8 +100,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int i,n,vez=1;
@@ -19,8 +18,3 @@ int main(){
 	}
 	return 0;
 } 
-
-
-
-
-

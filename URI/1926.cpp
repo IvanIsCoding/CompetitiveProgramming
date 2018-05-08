@@ -1,4 +1,3 @@
-
 #include <cstdio>
 const int MAXN = 1e6 + 11;
 bool crivo[MAXN+10];
@@ -34,8 +33,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

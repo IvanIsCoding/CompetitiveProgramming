@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor[10];
 int main(){
@@ -23,8 +22,3 @@ int main(){
        	printf("%d\n",resposta);
        	return 0;
 } 
-
-
-
-
-

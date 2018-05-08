@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int a,b,davez=0;
@@ -32,8 +31,3 @@ int main(){
 	else printf("%c\n",final[1]);
 	return 0;
 } 
-
-
-
-
-

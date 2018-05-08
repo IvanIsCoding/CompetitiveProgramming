@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 	int resposta=0,indice=0,i;
@@ -13,8 +12,3 @@ int main(){
 	printf("%d\n%d\n",resposta,indice+1);
 	return 0;
 }
-
-
-
-
-

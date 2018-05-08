@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor[4000];
 int main(){
@@ -3509,8 +3508,3 @@ vetor[3501] = 2326;
 	}
 	return 0;
 }
-
-
-
-
-

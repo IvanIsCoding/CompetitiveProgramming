@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 char conv[1000],entrada[10100];
@@ -13,8 +12,3 @@ int main(){
 	printf("\n");
 	return 0;
 }
-
-
-
-
-

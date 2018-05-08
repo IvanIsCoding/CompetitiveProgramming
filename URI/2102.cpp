@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <map>
 #define MP make_pair
@@ -23,8 +22,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MODULO 1440
 int main(){
@@ -24,8 +23,3 @@ int main(){
 	}
 	return 0;
 } 
-
-
-
-
-

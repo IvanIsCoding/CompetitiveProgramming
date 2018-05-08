@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #define MAXN 100010
 typedef long long ll;
@@ -95,8 +94,3 @@ int main(){
 	printf("%lld\n",query(1,1,n,1,n));
 	return 0;
 }
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 #include <unordered_map>
 #include <algorithm>
 #define MAXN 1010
@@ -34,8 +33,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

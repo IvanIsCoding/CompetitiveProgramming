@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int main(){
 	int x=4,y=3,resposta = 0;
@@ -26,8 +25,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

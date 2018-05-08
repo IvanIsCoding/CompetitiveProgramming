@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int grupo[101];
 int main(){
@@ -29,8 +28,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

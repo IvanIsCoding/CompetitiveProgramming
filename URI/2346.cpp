@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <vector>
 #include <set>
@@ -56,8 +55,3 @@ int main(){
 	printf("%d\n",(int)conjunto.size());
 	return 0;
 }
-
-
-
-
-

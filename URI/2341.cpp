@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor[1010];
 int min(int x, int y) {if(x<y) return x; return y;}
@@ -14,8 +13,3 @@ int main(){
 	printf("%d\n",resposta);
 	return 0;
 } 
-
-
-
-
-

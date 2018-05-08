@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <stack>
 #define MAXN 60
@@ -37,8 +36,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

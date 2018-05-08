@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 int dp[100000],n;
@@ -23,8 +22,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

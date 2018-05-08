@@ -1,4 +1,3 @@
-
 #include <cstdio>
 #include <cstring>
 const int ALPHABET_SIZE = 26;
@@ -68,8 +67,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-

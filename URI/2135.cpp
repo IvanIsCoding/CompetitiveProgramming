@@ -1,4 +1,3 @@
-
 #include <cstdio>
 int vetor[101],soma[101];
 int main(){
@@ -19,8 +18,3 @@ int main(){
 	}
 	return 0;
 }
-
-
-
-
-
