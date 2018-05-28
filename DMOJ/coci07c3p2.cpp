@@ -1,0 +1,1 @@
+print oct(int(raw_input(),2))[1:].replace("L","")
