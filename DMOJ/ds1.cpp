@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ds1
 #include <cstdio>
 #include <vector>
 #include <algorithm>
@@ -61,4 +63,5 @@ int main(){
 		}
 	}
 	return 0;
+}
 }

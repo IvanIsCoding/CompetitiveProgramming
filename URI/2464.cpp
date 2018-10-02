@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2464
 #include <cstdio>
 #include <cstring>
 char conv[1000],entrada[10100];

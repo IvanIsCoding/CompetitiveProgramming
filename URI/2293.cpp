@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2293
 #include <cstdio>
 #define max(A,B) (A>B) ? (A) : (B)
 int linha[110],coluna[110],resposta;

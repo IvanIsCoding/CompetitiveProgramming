@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/CEPC08B/
 #include <cstdio>
 #include <algorithm>
 #define gc getchar_unlocked

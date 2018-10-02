@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/PT07Y/
 #include <bits/stdc++.h>
 using namespace std;
 int pai[10010],peso[10010],conjuntos;

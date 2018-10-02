@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/WACHOVIA/
 #include <cstdio>
 #include <unordered_map>
 #include <algorithm>

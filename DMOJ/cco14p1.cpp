@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco14p1
 #include <cstdio>
 #include <algorithm>
 #define MAXN 2010

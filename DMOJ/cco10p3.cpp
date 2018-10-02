@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco10p3
 #include <cstdio>
 #include <algorithm>
 #include <vector>
@@ -94,6 +96,10 @@ int main(){
 			k = entradak[i];
 			k = qtd - k + 1;
 			printf("%d\n",mapa[query(1,lo,hi,k)]);
+		}
+	}
+	return 0;
+}lo,hi,k)]);
 		}
 	}
 	return 0;

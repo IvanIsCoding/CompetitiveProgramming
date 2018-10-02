@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1790
 #include <cstdio>
 #define MAXN 51
 int matriz[MAXN][MAXN],processado[MAXN],visitados,n,m;

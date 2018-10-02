@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco13p3
 #include <cstdio>
 #include <algorithm>
 #include <map>
@@ -71,4 +73,5 @@ int main(){
 	dfs_sack(1,-1);
 	printf("%d %lld\n",diametro + 1,resp);
 	return 0;
+}urn 0;
 }

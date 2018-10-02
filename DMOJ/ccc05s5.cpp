@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc05s5
 #include <cstdio>
 typedef long long ll;
 const ll MAXN = 1e9 + 10;

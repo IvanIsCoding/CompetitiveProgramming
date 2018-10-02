@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADAORANG/
 #include <cstdio>
 #include <cstring>
 #include <vector>

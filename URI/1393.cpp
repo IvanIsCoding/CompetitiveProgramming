@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1393
 #include <cstdio>
 #include <cstring>
 int dp[50],vis[50],n;

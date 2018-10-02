@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/bts16p3
 #include <cstdio>
 #include <cstring>
 #define MOD 1000000007

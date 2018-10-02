@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/PATULJCI/
 #include <bits/stdc++.h>
 #define gc getchar_unlocked
 inline void getint(int &x){

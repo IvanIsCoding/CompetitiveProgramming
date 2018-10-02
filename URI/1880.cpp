@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1880
 #include <bits/stdc++.h>
 using namespace std;
 int checa(int n,int base){

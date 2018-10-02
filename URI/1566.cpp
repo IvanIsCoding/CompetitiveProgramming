@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1566
 #include <cstdio>
 #define gc getchar_unlocked
 void getint(int &x){

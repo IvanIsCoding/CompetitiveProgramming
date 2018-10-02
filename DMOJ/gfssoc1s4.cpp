@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/gfssoc1s4
 #include <cstdio>
 #define MAXN 251
 #define LSOne(S) (S & (-S))
@@ -67,4 +69,5 @@ int main(){
 	}
 	printf("%lld\n",resp);
 	return 0;
+}
 }

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco05p1
 #include <cstdio>
 #include <queue>
 #define MAXN 101

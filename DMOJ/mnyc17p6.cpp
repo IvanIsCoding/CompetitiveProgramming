@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/mnyc17p6
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1e5 + 10;

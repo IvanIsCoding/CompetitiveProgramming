@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/FACTCG2/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1e7 + 2;

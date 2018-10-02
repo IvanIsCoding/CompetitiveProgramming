@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc13s3
 #include <bits/stdc++.h>
 using namespace std;
 typedef vector<int> vi;
@@ -65,4 +67,5 @@ int main(){
 	solve(0,iniciais);
 	printf("%d\n",total);
 	return 0;
+}
 }

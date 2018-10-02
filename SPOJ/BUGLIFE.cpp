@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/BUGLIFE/
 #include <cstdio>
 #include <vector>
 #include <queue>

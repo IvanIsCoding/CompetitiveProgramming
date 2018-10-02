@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/CCOST/
 #include <bits/stdc++.h>
 #define MP make_pair
 #define LSOne(S) (S & (-S))

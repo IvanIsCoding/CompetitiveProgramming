@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ETF/
 #include <cstdio>
 const int MAXN = 1e6 + 10;
 int totient[MAXN];

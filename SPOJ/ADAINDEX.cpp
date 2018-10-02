@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADAINDEX/
 #include <cstdio>
 #include <cstring>
 const int MAXN = 1e6 + 1;

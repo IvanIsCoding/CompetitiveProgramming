@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmopc15c2p5
 #include <cstdio>
 #include <vector>
 #include <algorithm>
@@ -69,4 +71,5 @@ int main(){
 	}
 	for(ll i=1;i<=q;i++) printf("%lld\n",respostas[i]);
 	return 0;
+}
 }

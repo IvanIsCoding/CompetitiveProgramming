@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1835
 #include <cstdio>
 #define MAXN 110
 int pai[MAXN],peso[MAXN],t,n,m,conjuntos,caso;

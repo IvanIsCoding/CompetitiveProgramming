@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco18p5
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -112,6 +114,9 @@ int main(){
 	}
 
 	for(int i = 0;i<Q;i++) print(exibe[i]);
+
+	return 0;
+}int i = 0;i<Q;i++) print(exibe[i]);
 
 	return 0;
 }

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/banknotes
 #include <bits/stdc++.h>
 using namespace std;
 typedef pair<int,int> ii;

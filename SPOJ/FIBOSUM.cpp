@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/FIBOSUM/
 #include <iostream>
 #define endl '\n'
 #define MODULO 1000000007LL

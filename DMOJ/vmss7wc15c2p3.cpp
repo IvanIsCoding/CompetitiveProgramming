@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/vmss7wc15c2p3
 #include <cstdio>
 #include <stack>
 using namespace std;

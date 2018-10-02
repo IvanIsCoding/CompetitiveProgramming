@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2415
 #include <cstdio>
 int main() {
 	int entrada,resp=0,temporario=1,anterior,count=0;

@@ -1,4 +1,6 @@
 // Ivan Carvalho
+// Solution to https://www.spoj.com/problems/FREQ2/
+// Ivan Carvalho
 // Pedras - Seletiva IOI - OBI 2015
 #include <bits/stdc++.h>
 #define MAXN 100010

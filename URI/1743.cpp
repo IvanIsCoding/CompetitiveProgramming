@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1743
 #include <cstdio>
 int vetor1[10], vetor2[10];
 int main(){

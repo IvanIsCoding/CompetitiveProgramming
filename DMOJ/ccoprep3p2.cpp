@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccoprep3p2
 #include <cstdio>
 #include <vector>
 #include <algorithm>

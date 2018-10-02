@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/POSTERS/
 #include <cstdio>
 #include <cstring>
 #include <set>

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADADUNG/
 #include <cstdio>
 typedef long long ll;
 const ll MAXN = 1e7 + 1;

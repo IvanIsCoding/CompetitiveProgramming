@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2378
 #include <cstdio>
 int main(){
 	int n,c,i,total=0,excedeu=0;

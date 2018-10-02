@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SLIKAR/
 #include <bits/stdc++.h>
 using namespace std;
 typedef tuple<int,int,int,int> quadra;

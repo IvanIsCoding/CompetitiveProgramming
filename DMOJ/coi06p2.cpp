@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coi06p2
 #include <bits/stdc++.h>
 #define gc getchar_unlocked
 inline void getint(int &x){
@@ -233,6 +235,15 @@ int main(){
 				continue;
 			}
 			a = bridgeTreeId[a];
+			b = bridgeTreeId[b];
+			g1 = bridgeTreeId[g1];
+			g2 = bridgeTreeId[g2];
+			if(path(a,b,g1,g2)) printf("yes\n");
+			else printf("no\n");
+		}
+	}
+	return 0;
+}TreeId[a];
 			b = bridgeTreeId[b];
 			g1 = bridgeTreeId[g1];
 			g2 = bridgeTreeId[g2];

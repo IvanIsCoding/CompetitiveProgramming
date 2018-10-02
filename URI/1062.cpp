@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1062
 #include <cstdio>
 #define MAXN 1010
 int n,saida[MAXN],pilha[MAXN],tam;

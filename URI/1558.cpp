@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1558
 #include <cstdio>
 #define MAXN 30000
 bool vetor[MAXN];

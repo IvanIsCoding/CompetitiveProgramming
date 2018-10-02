@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c3p2
 #include <cstdio>
 const int MAXN = 1e5 + 10;
 int fav[MAXN],hate[MAXN],whochanges[MAXN],visited[MAXN],N,M,P,resp;

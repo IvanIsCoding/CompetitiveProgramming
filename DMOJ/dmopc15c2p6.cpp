@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmopc15c2p6
 #include <bits/stdc++.h>
 #define MP make_pair
 using namespace std;

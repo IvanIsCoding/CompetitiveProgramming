@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/QTREE3/
 include <cstdio>
 #include <vector>
 #define LSOne(S) (S & -(S))

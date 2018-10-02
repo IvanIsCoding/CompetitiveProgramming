@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1188
 #!/usr/bin/env python2.7
 # encoding : utf-8
 array = [[0 for j in xrange(12)] for k in xrange(12)]

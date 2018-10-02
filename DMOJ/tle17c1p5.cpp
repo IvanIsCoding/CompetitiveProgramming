@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/tle17c1p5
 #include <bits/stdc++.h>
 #define LSOne(S) (S & (-S))
 using namespace std;
@@ -80,5 +82,7 @@ int main(){
 		}
 	}
 	printf("sense\n");
+	return 0;
+});
 	return 0;
 }

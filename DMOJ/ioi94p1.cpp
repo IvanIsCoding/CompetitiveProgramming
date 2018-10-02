@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi94p1
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

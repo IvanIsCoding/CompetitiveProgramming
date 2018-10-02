@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1323
 #include <cstdio>
 int dp[110];
 int main(){

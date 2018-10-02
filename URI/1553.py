@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1553
 # encoding : utf-8
 def frequente(conjunto,numero):
     return len([j for j in [conjunto.count(i) for i in set(conjunto)] if j>= numero])

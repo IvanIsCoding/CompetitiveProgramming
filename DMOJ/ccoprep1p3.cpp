@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccoprep1p3
 #include <cstdio>
 #include <cstdlib>
 #include <vector>
@@ -126,6 +128,12 @@ int main(){
 			scanf("%d %d",&x,&y);
 			x = find(x);
 			y = find(y);
+			if(x==y) continue;
+			join(x,y);
+		}
+	}
+	return 0;
+}(y);
 			if(x==y) continue;
 			join(x,y);
 		}

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/tle16c3p5
 #include <bits/stdc++.h>
 #define MP make_pair
 #define gc getchar_unlocked
@@ -80,5 +82,7 @@ int main(){
 		if(in_rectangle(x,y)) bs();
 		printf("%d\n",resp);
 	}
+	return 0;
+}	}
 	return 0;
 }

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SEQ/
 #include <cstdio>
 #include <algorithm>
 #define REP(A,B) for(long long A=0;A<B;A++)

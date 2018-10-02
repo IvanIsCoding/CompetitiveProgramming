@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/apio10p1
 #include <cstdio>
 #include <algorithm>
 #include <vector>
@@ -70,4 +72,5 @@ int main(){
 		printf("%lld\n",best);
 	}
 	return 0;
+}n 0;
 }

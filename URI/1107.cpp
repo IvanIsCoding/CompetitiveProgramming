@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1107
 #include <cstdio>
 #define MAXN 10010
 int vetor[MAXN],a,c,auxiliar[MAXN];

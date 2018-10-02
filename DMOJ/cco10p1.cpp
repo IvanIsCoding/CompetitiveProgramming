@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco10p1
 #include <bits/stdc++.h>
 #define NOTHING 0
 #define WAITS 1

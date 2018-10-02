@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/COT2/
 #include <cstdio>
 #include <cstring>
 #include <vector>

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2367
 #include <cstdio>
 #define MAXN 1001010
 int dp[MAXN],proibido[MAXN],n,m;

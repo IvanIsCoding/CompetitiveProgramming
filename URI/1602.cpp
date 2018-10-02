@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1602
 #include <cstdio>
 #define MAXN 2000001
 int soma[MAXN],divisores[MAXN];

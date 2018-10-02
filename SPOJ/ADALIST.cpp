@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADALIST/
 #include <cstdio>
 #include <deque>
 #define gc getchar_unlocked

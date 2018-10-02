@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/gfssoc2j5
 #include <cstdio>
 #define MAXN 500010
 int soma[MAXN][11],freq[11];

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/IMPER/
 #include <cstdio>
 #include <vector>
 #define MAXN 10010

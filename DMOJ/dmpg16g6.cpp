@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmpg16g6
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 262244;
@@ -74,4 +76,5 @@ int main(){
 		printf("%ld\n",last);
 	}
 	return 0;	
+}turn 0;	
 }

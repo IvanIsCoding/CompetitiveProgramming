@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccoprep16c2q3
 #include <cstdio>
 #include <cmath>
 #include <cstring>
@@ -99,6 +101,10 @@ int main(){
 			}
 		}
 		ini += sqn;
+		fim += sqn;
+	}
+	return 0;
+}
 		fim += sqn;
 	}
 	return 0;

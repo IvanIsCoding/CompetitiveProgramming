@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/MATSUM/
 #include <iostream>
 #include <string>
 #include <cstring>

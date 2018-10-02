@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c3p5
 #include <bits/stdc++.h>
 using namespace std;
 typedef pair<int,int> ii;
@@ -84,5 +86,7 @@ int main(){
 	digitos = 9 - digitos;
 	while(digitos--) printf("0");
 	printf("%d\n",resp.first);
+	return 0;
+}rst);
 	return 0;
 }

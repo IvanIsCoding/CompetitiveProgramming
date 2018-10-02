@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/PRINT/
 #include <cstdio>
 #include <cmath>
 #include <vector>

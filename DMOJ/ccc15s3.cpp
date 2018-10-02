@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc15s3
 #include <cstdio>
 #include <set>
 using namespace std;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1944
 #include <cstdio>
 #define MAXN 1001
 char pilha[MAXN];

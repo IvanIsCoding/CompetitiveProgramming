@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc08s5
 #include <cstdio>
 #include <cstring>
 #define MAXN 31

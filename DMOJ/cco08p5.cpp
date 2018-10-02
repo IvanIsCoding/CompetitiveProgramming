@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco08p5
 #include <bits/stdc++.h>
 using namespace std;
 int N,K[101],C[101],tot;

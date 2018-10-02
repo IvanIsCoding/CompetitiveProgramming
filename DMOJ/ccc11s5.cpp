@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc11s5
 #include <cstdio>
 #include <queue>
 #include <bitset>

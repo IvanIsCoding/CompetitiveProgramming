@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmopc16c4p4
 #include <cstdio>
 #include <cmath>
 #include <vector>
@@ -73,4 +75,5 @@ int main(){
 	for(int i=1;i<q;i++) query(i);
 	for(int i=0;i<q;i++) printf("%d\n",resp[i]);
 	return 0;
+}n 0;
 }

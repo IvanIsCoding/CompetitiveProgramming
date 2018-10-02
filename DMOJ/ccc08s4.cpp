@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc08s4
 #include <cstdio>
 #include <set>
 #include <algorithm>
@@ -93,6 +95,9 @@ int main(){
 		scanf("%d %d %d %d",&a,&b,&c,&d);
 		si ret = mao4(a,b,c,d);
 		printf("%d\n",*(ret.rbegin()));
+	}
+	return 0;
+}et.rbegin()));
 	}
 	return 0;
 }

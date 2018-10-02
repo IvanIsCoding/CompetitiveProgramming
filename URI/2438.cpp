@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2438
 #include <cstdio>
 long long resposta;
 int n,vetor[1000001],sequencias[9],soma;

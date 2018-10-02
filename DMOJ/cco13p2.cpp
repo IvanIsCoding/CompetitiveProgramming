@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco13p2
 #include <cstdio>
 #include <algorithm>
 #define MP make_pair

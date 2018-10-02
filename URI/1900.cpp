@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1900
 #include <cstdio>
 #include <unordered_map>
 using namespace std;

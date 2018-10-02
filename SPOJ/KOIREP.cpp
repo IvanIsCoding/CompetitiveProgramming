@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/KOIREP/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1010;

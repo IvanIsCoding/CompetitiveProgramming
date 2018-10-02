@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/vmss7wc15c6p3
 #include <cstdio>
 #include <vector>
 #include <algorithm>

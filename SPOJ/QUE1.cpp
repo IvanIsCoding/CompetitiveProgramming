@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/QUE1/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 10010;

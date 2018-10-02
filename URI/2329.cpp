@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2329
 #include <cstdio>
 #define MAX 10000
 int main(){

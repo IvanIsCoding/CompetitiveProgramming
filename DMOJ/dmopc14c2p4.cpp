@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmopc14c2p4
 #include <cstdio>
 int dp[1000010],n,q;
 int main(){

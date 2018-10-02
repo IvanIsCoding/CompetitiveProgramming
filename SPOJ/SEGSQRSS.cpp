@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SEGSQRSS/
 #include <cstdio>
 #include <queue>
 #define MAXN 100001

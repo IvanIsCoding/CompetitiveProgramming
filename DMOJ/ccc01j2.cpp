@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc01j2
 #include <cstdio>
 int main(){
 	int x,m;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TDPRIMES/
 #include <cstdio>
 using namespace std;
 int contador;

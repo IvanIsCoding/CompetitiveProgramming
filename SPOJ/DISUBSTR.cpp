@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/DISUBSTR/
 #include <cstdio>
 #include <cstring>
 #include <set>

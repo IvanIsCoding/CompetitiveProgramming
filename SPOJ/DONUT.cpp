@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/DONUT/
 #include <bits/stdc++.h>
 using namespace std;
 const long long MAXN = 2*1e9 + 1;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c1p6
 #include <bits/stdc++.h>
 using namespace std;
 

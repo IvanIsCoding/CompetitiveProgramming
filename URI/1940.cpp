@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1940
 #include <cstdio>
 int vetor[600];
 int main(){

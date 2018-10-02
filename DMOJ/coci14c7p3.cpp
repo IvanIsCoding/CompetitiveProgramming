@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c7p3
 #include <cstdio>
 #include <algorithm>
 #define MAXN 150010

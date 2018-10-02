@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ALL/
 #include <cstdio>
 #include <algorithm>
 #include <queue>

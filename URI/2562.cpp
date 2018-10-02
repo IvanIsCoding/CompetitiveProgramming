@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2562
 #include <cstdio>
 #define MAXN 1001
 int pai[MAXN],peso[MAXN],membros[MAXN],n,m;

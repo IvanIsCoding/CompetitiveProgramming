@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2462
 #include <cstdio>
 #define MODULO 1440
 int main(){

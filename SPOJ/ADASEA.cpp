@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADASEA/
 #include <cstdio>
 #include <algorithm>
 #define MAXN 1001

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/odd
 #include <cstdio>
 int main(){
 	int n,resp = 0;

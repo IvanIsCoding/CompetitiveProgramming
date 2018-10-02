@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1267
 #include <cstdio>
 #define MAXN 500
 int vetor[MAXN],n,d;

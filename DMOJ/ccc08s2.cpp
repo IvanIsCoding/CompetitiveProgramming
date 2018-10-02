@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc08s2
 #include <cstdio>
 #include <cstdlib>
 #include <cmath>

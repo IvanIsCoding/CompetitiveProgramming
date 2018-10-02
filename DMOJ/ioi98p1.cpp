@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi98p1
 #include <cstdio>
 #include <iostream>
 #include <map>
@@ -85,5 +87,7 @@ int main(){
 		cout << " ";
 	}
 	cout << '\n';
+	return 0;
+} << '\n';
 	return 0;
 }

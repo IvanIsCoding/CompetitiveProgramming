@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/aplusb2
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1e5 + 10;
@@ -101,6 +103,11 @@ int main(){
 			reverse(C.begin(),C.end());
 			if(C[0] != 0) printf("-");
 			for(int i = 0;i<C.size();i++) printf("%d",C[i]);
+			printf("\n");
+		}
+	}
+	return 0;
+};
 			printf("\n");
 		}
 	}

@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1047
 # encoding : utf-8
 a,b,c,d = [int(i) for i in raw_input().split(" ")]
 minutos1= 60*a+b

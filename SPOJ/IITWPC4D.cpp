@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/IITWPC4D/
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

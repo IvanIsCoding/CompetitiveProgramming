@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc07s4
 #include <cstdio>
 #include <vector>
 #include <cstring>

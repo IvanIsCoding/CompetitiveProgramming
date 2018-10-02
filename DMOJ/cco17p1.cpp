@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco17p1
 #include <cstdio>
 #include <vector>
 #define MP make_pair

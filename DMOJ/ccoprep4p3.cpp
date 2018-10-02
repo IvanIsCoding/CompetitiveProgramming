@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccoprep4p3
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -133,6 +135,13 @@ int main(){
 				if(lazyfind(u) != lazyfind(v)){
 					lazyjoin(u,v);
 					delta += w;
+				}
+			}
+			printf("%lld\n",custo + delta);
+		}
+	}
+	return 0;
+};
 				}
 			}
 			printf("%lld\n",custo + delta);

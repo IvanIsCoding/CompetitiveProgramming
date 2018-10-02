@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc09s1
 #include <cstdio>
 inline int pow(int a){
 	return a*a*a*a*a*a;

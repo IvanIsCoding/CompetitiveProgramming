@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/crci07p4
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
@@ -83,5 +85,7 @@ int main(){
 		ini = nxt + 1;
 	}
 	printf("=%d\n",S);
+	return 0;
+}n",S);
 	return 0;
 }

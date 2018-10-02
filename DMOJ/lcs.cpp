@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/lcs
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci08c2p1
 #include <cstdio>
 #include <algorithm>
 using namespace std;

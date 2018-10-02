@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc00s4
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 5290;

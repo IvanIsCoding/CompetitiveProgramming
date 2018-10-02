@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2023
 #include <cctype>
 #include <iostream>
 #include <algorithm>

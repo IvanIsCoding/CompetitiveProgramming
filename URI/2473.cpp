@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2473
 #include <cstdio>
 int sorteado[8],seus[8],resp;
 int main(){

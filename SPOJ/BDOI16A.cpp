@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/BDOI16A/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 200010;

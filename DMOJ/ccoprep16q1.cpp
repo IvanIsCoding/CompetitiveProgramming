@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccoprep16q1
 #include <cstdio>
 #include <algorithm>
 using namespace std;

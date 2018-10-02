@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmopc14c2p6
 #include <cstdio>
 #include <vector>
 #define MAXN 100010
@@ -82,5 +84,7 @@ int main(){
 		scanf("%d %d %d",&a,&b,&c);
 		printf("%d\n",query_bit(a+1,b+1,c));
 	}
+	return 0;
+}	}
 	return 0;
 }

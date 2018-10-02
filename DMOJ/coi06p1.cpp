@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coi06p1
 #include <cstdio>
 #include <stack>
 using namespace std;

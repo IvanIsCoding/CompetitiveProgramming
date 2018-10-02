@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi13p2
 #include <bits/stdc++.h>
 #include "artclass.h"
 using namespace std;

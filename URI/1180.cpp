@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1180
 #include <cstdio>
 int main(){
 	int a,i,resp=0,pos=0;

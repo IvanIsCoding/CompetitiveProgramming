@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/EDIST/
 #include <cstring>
 #include <cstdio>
 #include <algorithm>

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2013D/
 #include <cstdio>
 #include <set>
 #include <algorithm>

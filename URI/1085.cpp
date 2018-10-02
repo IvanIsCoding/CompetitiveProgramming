@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1085
 #include <iostream>
 #include <string>
 #include <unordered_map>

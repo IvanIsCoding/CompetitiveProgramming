@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1197
 # -*- coding: utf-8 -*-
 while True:
     try:

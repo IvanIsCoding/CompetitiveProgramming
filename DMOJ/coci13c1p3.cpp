@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci13c1p3
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 51;

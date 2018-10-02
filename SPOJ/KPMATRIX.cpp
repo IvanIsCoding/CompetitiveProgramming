@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/KPMATRIX/
 #include <cstdio>
 #include <cstdlib>
 #include <vector>

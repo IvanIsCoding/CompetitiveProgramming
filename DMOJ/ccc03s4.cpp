@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc03s4
 #include <cstdio>
 #include <cstring>
 #include <set>

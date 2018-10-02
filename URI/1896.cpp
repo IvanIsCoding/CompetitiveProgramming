@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1896
 #include <cstdio>
 #define MAXN 21
 int A[MAXN],D[MAXN],H[MAXN],n,a,d,h;

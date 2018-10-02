@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmopc15c1p6
 #include <cstdio>
 #define MAXN 200010
 int arvore[4*MAXN],lazy[4*MAXN],vetor[MAXN],MOD;
@@ -69,4 +71,5 @@ int main(){
 		}
 	}
 	return 0;
+}
 }

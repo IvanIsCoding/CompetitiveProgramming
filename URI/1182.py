@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1182
 #!/usr/bin/env python2.7
 linha = int(raw_input())
 array = [[0 for j in xrange(12)] for k in xrange(12)]

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1299
 #include <cstdio>
 #define MAXN 52
 int dx[4] = {1,-1,0,0};

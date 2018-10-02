@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c1p2
 #include <bits/stdc++.h>
 using namespace std;
 int main(){

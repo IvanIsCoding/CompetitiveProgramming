@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1998
 #include <cstdio>
 #include <queue>
 #define gc getchar_unlocked

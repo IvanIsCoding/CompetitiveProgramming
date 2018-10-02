@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/GSS6/
 #include <cstdio>
 #include <cstdlib>
 #include <algorithm>

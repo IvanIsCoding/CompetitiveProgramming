@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/YODANESS/
 #include <iostream>
 #include <string>
 #include <map>

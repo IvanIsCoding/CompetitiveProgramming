@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco00p1
 #include <cstdio>
 #include <set>
 using namespace std;
@@ -63,4 +65,4 @@ int main(){
 		}
 	}
 	return 0;
-}
+}}

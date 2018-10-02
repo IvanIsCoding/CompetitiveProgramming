@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2316
 #include <cstdio>
 #include <algorithm>
 #define MAXN 110

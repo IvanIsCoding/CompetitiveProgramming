@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c3p3
 #include <cstdio>
 int X[1000],Y[1000],existe[1000];
 int main(){

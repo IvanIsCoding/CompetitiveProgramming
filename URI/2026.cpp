@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2026
 #include <cstdio>
 #define max(A,B) (A>B) ? (A) : (B)
 #define MAXW 1100

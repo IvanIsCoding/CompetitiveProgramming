@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2107
 #include <cstdio>
 int X[5],Y[5],Z[5];
 inline int simplifica(int k){

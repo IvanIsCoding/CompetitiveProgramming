@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c5p6
 #include <cstdio>
 #include <vector>
 #include <algorithm>

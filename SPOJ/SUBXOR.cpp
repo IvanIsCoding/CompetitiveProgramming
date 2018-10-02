@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SUBXOR/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 2*1e6 + 10;

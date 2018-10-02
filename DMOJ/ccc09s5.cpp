@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc09s5
 #include <cstdio>
 #include <algorithm>
 #include <cmath>

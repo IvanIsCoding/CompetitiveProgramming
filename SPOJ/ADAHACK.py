@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.spoj.com/problems/ADAHACK/
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 modulo = 10**11 + 3

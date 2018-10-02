@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/MULTQ3/
 #include <cstdio>
 #define MAXN 100010
 int lazy[4*MAXN];

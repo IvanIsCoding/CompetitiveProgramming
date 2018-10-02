@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1066
 # -*- coding: utf-8 -*-
 array = []
 for i in xrange(5):

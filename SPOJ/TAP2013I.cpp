@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2013I/
 #include <cstdio>
 #include <queue>
 #define MP make_pair

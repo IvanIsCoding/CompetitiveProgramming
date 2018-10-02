@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccoqr16p3
 #include <cstdio>
 #include <cstdlib>
 #include <vector>

@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1185
 #!/usr/bin/env python2.7
 array = [[0 for j in xrange(12)] for k in xrange(12)]
 operacao = raw_input()

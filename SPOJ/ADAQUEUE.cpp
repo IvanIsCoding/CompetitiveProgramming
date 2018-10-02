@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADAQUEUE/
 #include <cstdio>
 #include <deque>
 using namespace std;

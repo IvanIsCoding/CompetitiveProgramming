@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/bf4hard
 #include <cstdio>
 #include <cstring>
 #include <set>

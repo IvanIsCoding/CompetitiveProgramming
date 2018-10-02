@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADABERRY/
 #include <cstdio>
 #include <algorithm>
 #include <vector>

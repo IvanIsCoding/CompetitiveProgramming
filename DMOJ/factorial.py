@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://dmoj.ca/problem/factorial
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 mod = 2**32

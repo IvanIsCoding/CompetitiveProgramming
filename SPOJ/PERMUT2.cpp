@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/PERMUT2/
 #include <cstdio>
 int vetor[100010];
 int main(){

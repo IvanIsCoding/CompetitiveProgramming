@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/2061
 #!/usr/bin/env python2.7
 # encoding : utf-8
 a,b = [int(i) for i in raw_input().split(" ")]

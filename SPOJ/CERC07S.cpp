@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/CERC07S/
 #include <cstdio>
 #include <cstdlib>
 #include <algorithm>

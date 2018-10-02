@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADACOINS/
 #include <cstdio>
 #define MAXN 10001
 #define MAXS 100001

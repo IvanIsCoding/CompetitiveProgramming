@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci15c2p2
 #include <cstdio>
 #define MAXN 20
 int nao_pode[MAXN];

@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/2783
 # -*- coding : utf-8 -*-
 
 N,C,M = [int(i) for i in input().split()]

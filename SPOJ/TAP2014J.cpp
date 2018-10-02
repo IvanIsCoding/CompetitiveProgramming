@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2014J/
 #include <iostream>
 #define MAXN 200100
 #define endl '\n'

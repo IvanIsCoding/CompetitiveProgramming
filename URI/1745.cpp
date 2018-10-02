@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1745
 #include <cstdio>
 typedef long long ll;
 ll total[4],resp,soma;

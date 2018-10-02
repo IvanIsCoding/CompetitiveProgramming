@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2475
 #include <cstdio>
 #define MAXN 10001
 #define MAXA 501

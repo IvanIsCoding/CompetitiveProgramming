@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1285
 #include <cstdio>
 #include <cstring>
 int soma[6000];

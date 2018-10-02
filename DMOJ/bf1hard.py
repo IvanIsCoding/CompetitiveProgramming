@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://dmoj.ca/problem/bf1hard
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 from sys import stdin

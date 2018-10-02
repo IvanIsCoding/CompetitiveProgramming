@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SGIFT/
 #include <cstdio>
 #include <algorithm>
 #include <vector>

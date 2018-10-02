@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ORDERSET/
 #include <cstdio>
 #include <cstdlib>
 typedef struct node* pnode;

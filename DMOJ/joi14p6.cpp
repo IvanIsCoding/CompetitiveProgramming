@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/joi14p6
 #include <bits/stdc++.h>
 #include "secret.h"
 using namespace std;

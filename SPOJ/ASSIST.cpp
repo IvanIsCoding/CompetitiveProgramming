@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ASSIST/
 #include <cstdio>
 #include <vector>
 #define MAXN 33819

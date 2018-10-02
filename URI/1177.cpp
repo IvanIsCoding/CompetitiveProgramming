@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1177
 #include <cstdio>
 int main(){
 	int i,a,davez=0;

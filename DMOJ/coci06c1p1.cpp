@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c1p1
 #include <cstdio>
 #include <set>
 using namespace std;

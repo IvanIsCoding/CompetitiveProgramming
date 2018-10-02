@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc01s4
 #include <cstdio>
 #include <cmath>
 #include <vector>
@@ -113,6 +115,11 @@ int main(){
 					addCircle(i,j,k,n);
 				}
 			}
+		}
+		printf("%.2lf\n",2.0*r);
+	}
+	return 0;
+}		}
 		}
 		printf("%.2lf\n",2.0*r);
 	}

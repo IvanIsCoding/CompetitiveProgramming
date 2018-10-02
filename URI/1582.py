@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1582
 # encoding : utf-8
 def mdc(x,y):
 	p,q = sorted([x,y])

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/QMAX3VN/
 #include <cstdio>
 #include <algorithm>
 #include <cstdlib>

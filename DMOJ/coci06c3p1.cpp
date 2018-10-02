@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c3p1
 #include <bits/stdc++.h>
 using namespace std;
 int V[10],tot;

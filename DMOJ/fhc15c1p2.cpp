@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/fhc15c1p2
 #include <cstdio>
 #include <cstring>
 const int MAXN = 1e6 + 10;

@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1261
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 a,b = [int(i) for i in raw_input().split()]

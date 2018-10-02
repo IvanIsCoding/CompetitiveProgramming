@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/mnyc17p3
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;

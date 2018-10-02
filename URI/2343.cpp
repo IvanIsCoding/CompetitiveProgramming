@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2343
 #include <cstdio>
 #define MAXN 501
 #define gc getchar_unlocked

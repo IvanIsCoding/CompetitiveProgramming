@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci08c6p6
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1200;
@@ -84,6 +86,9 @@ int main(){
 			printf("%d 1 2\n",i);
 			qtd[i] -= 2;
 		}
+	}
+	return 0;
+}	}
 	}
 	return 0;
 }

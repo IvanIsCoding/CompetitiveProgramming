@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1284
 #include <cstdio>
 #include <cstring>
 const int ALPHABET_SIZE = 26;

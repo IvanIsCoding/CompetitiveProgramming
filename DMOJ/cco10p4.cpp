@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco10p4
 #include <cstdio>
 #include <algorithm>
 #define MAXN 3001

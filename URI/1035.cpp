@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1035
 #include <iostream>
 int main(){
 	int a,b,c,d;

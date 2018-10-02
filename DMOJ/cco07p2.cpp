@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco07p2
 #include <cstdio>
 #include <deque>
 #include <set>

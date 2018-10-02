@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1022
 #include <cstdio>
 int gcd(int x, int y){
 	if(x<y){ 

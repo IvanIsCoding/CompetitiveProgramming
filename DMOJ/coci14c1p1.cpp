@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c1p1
 n = int(raw_input())
 b = [int(i) for i in raw_input().split()]
 total = b[0]

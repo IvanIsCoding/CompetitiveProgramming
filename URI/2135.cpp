@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2135
 #include <cstdio>
 int vetor[101],soma[101];
 int main(){

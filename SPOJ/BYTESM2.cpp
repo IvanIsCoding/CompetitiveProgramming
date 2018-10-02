@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/BYTESM2/
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

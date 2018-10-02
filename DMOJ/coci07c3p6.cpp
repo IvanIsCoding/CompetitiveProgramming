@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c3p6
 #include <cstdio>
 #include <vector>
 #define MAXN 250020
@@ -72,4 +74,5 @@ int main(){
 		update(1,1,n,a,b);
 	}
 	return 0;
+}n 0;
 }

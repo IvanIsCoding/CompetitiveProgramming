@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1084
 #include <cstdio>
 #include <stack>
 using namespace std;

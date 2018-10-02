@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1098
 # -*- coding: utf-8 -*-
 def b(numero):
     if numero % 1 == 0:

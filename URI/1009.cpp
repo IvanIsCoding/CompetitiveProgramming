@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1009
 #include <cstdio>
 int main() {
 	char nome[100];

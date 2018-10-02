@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/INVCNT/
 #include <cstdio>
 #define MAXN 500100
 int vetor[MAXN],auxiliar[MAXN];

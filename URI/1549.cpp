@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1549
 #include <cstdio>
 #include <cmath>
 const double PI = acos(-1.0);

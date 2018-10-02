@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1136
 #include <cstdio>
 #define MAXN 1001
 int abs(int x){

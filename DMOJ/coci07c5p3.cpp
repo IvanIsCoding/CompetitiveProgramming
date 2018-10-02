@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c5p3
 #include <cstdio>
 #include <cstdlib>
 int area(int x1,int y1,int x2,int y2,int x3,int y3){

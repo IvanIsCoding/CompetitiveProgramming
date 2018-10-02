@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi13p6
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -176,6 +178,13 @@ void init(int RR,int CC){
 }
 void update(int x,int y,ll delta){
 	raiz->update(0,R-1,x,y,delta);
+}
+long long calculate(int P, int Q, int U, int V){
+	return raiz->query(0,R-1,P,U,Q,V);
+}
+int main(){
+	return 0;
+}
 }
 long long calculate(int P, int Q, int U, int V){
 	return raiz->query(0,R-1,P,U,Q,V);

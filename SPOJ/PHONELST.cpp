@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/PHONELST/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1e5 + 1;

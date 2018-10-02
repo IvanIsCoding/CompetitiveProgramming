@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c1p5
 #include <bits/stdc++.h>
 #define gc getchar_unlocked
 inline void getint(int &x){

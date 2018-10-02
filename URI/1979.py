@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1979
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 from collections import deque

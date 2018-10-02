@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/GROCERY/
 #include <cstdio>
 typedef int ll;
 const ll maximo = 20 * 100;

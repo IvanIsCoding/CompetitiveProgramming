@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2100
 #include <cstdio>
 typedef long long ll;
 const ll MOD = 1300031LL;

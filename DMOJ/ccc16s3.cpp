@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc16s3
 #include <cstdio>
 #include <vector>
 #include <algorithm>

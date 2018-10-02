@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADARAIN/
 #include <cstdio>
 #define LSOne(S) (S & -S)
 const int MAXN = 1e6 + 10;

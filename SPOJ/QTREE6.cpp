@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/QTREE6/
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

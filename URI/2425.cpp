@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2425
 #include <cstdio>
 #define MAXN 1010
 int caixas[11],c,n,resposta,disponivel,t,d;

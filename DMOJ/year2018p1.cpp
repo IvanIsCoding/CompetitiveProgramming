@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/year2018p1
 h,m,s = [int(i) for i in raw_input().split()]
 conv1 = 3600
 conv2  = 60

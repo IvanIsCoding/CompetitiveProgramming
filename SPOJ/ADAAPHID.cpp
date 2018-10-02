@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADAAPHID/
 #include <cstdio>
 #include <vector>
 using namespace std;

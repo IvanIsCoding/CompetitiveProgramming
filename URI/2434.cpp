@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2434
 #include <cstdio>
 int min(int x, int y) {if(x<y) return x; return y;}
 int main(){

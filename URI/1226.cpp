@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1226
 #include <bits/stdc++.h>
 #define endl '\n'
 using namespace std;

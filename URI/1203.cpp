@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1203
 #include <cstdio>
 #define MAXR 101
 #define MAXK 10010

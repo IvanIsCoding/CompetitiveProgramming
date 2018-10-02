@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/bf3
 #include <cstdio>
 int primality(int x){
 	if(x  <= 1) return 0; 

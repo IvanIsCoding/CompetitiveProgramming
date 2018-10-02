@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coi07p4
 #include <bits/stdc++.h>
 using namespace std;
 

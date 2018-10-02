@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2185
 #include <cstdio>
 #include <cstring>
 #define MAXN 100010

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADARAINB/
 #include <cstdio>
 #include <queue>
 #define LSOne(S) (S & (-S))

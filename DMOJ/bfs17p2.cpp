@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/bfs17p2
 #include <bits/stdc++.h>
 using namespace std;
 int qtd[6],last,n;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ILKQUERY2/
 #include <cstdio>
 #include <set>
 #include <cmath>

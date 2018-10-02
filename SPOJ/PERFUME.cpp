@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/PERFUME/
 #include <bits/stdc++.h>
 #define X first
 #define Y second

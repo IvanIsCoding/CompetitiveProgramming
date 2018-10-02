@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c1p6
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -68,4 +70,5 @@ int main(){
 	}
 	for(ll i = 1;i<=n;i++) printf("%lld\n",resposta[i]);
 	return 0;
+}
 }

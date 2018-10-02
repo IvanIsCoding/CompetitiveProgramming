@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2441
 #include <cstdio>
 #define MAXN 601
 int vetor[MAXN];

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/set
 #include <cstdio>
 #include <set>
 using namespace std;

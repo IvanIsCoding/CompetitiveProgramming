@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc14s5
 #include <bits/stdc++.h>
 #define LSOne(S) (S & (-S))
 using namespace std;
@@ -67,4 +69,5 @@ int main(){
 	for(int i = 2;i<=n;i++) resp = max(resp, raiz[i].query(get_v(i,modulo[i]-1)));
 	printf("%d\n",resp);
 	return 0;
+}0;
 }

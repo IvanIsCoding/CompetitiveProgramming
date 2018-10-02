@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/HIKE/
 #include <cstdio>
 #include <queue>
 #define MAXN 51

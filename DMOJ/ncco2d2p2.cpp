@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ncco2d2p2
 #include <bits/stdc++.h>
 #define F first
 #define S second

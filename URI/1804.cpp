@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1804
 #include <cstdio>
 #define MAXN 1000001
 #define LSOne(S) (S & (-S))

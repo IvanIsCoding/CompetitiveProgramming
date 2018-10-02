@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc12s5
 #include <cstdio>
 #include <cstring>
 int dp[26][26];

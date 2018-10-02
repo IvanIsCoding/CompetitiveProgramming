@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2164
 #include <cstdio>
 #define MAXN 60
 double sequencia[MAXN];

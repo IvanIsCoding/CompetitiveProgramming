@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1926
 #include <cstdio>
 const int MAXN = 1e6 + 11;
 bool crivo[MAXN+10];

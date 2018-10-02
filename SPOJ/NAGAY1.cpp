@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/NAGAY1/
 #include <bits/stdc++.h>
 using namespace std;
 int dx[4] = {1,-1,0,0};

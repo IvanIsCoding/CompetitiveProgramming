@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/AGGRCOW/
 #include <cstdio>
 #include <algorithm>
 #define MAXN 100001

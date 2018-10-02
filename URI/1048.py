@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1048
 # encoding : utf-8
 e = float(raw_input())
 coeficiente = 0

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/si17c1p8
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 20;

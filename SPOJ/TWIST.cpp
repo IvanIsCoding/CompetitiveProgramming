@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TWIST/
 #include <bits/stdc++.h>
 using namespace std;
 random_device rd;

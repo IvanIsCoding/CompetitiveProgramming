@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c2p1
 #include <cstdio>
 int main(){
 	int s,r;

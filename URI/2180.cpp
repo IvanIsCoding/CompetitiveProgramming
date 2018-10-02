@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2180
 #include <cstdio>
 #define MAXN 61000
 #define DISTANCIA 60000000

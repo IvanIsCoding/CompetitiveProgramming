@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci15c3p1
 n = int(raw_input())
 resposta = 0
 for i in xrange(n):

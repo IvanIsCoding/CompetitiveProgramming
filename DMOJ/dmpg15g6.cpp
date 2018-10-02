@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmpg15g6
 #include <bits/stdc++.h>
 #define gc getchar_unlocked
 void getint(int &x){
@@ -102,6 +104,10 @@ int main(){
 	for(int i=2;i<=q;i++) query(i);
 	for(int i=1;i<=q;i++){
 		if(resposta[i] == 1) puts("YES");
+		else puts("NO");
+	}
+	return 0;
+}");
 		else puts("NO");
 	}
 	return 0;

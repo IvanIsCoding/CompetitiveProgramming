@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SUBSUMS/
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/HALLOW/
 #include <cstdio>
 #define MAXN 100010
 typedef long long ll;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c5p1
 #include <bits/stdc++.h>
 using namespace std;
 int vetor[17],soma[17];

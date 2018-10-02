@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/hci16totient
 #include <cstdio>
 typedef long long ll;
 const ll MOD = 1e9 + 7;

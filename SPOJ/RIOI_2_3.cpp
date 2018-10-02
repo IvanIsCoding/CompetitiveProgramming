@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/RIOI_2_3/
 #include <cstdio>
 #include <cstring>
 #include <deque>

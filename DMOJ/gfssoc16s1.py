@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://dmoj.ca/problem/gfssoc16s1
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 from collections import deque

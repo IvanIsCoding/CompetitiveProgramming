@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ORDERS/
 #include <cstdio>
 #define MAXN 200011
 #define LSOne(S) (S & (-S))

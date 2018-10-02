@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc96s5
 #include <cstdio>
 #include <vector>
 #include <algorithm>

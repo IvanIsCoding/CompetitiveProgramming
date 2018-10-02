@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco17p3
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -154,6 +156,9 @@ int main(){
 		}
 	}
 	for(int i = 0;i<=60;i++) solve(i);
+	for(int i = 1;i<=Q;i++) printf("%lld\n",exibe[i]);
+	return 0;
+}i = 0;i<=60;i++) solve(i);
 	for(int i = 1;i<=Q;i++) printf("%lld\n",exibe[i]);
 	return 0;
 }

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ILKQUERY/
 #include <cstdio>
 #include <unordered_map>
 #include <set>

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c5p6
 #include <bits/stdc++.h>
 #define endl '\n'
 using namespace std;
@@ -82,6 +84,9 @@ int main(){
 			resposta += (exibe[i][j])*(j+1);
 		}
 		printf("%d\n",resposta);
+	}
+	return 0;
+}
 	}
 	return 0;
 }

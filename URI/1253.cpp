@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1253
 #include <cstdio>
 #include <cstring>
 char entrada[100010];

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2188
 #include <cstdio>
 #define INF 10010
 #define NEGINF -INF

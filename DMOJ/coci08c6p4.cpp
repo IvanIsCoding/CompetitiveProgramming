@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci08c6p4
 #include <bits/stdc++.h>
 using namespace std;
 deque<int> l,r,resp,p0,p1,p2;
@@ -66,4 +68,4 @@ int main(){
 	for(int i : resp) printf("%d ",i);
 	printf("\n");
 	return 0;
-}
+}}

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ZQUERY/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 50010;

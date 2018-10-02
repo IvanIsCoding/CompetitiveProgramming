@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c2p4
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1e5 + 10;
@@ -71,4 +73,5 @@ int main(){
 		search_delte_show(davez);
 	}
 	return 0;
+} 0;
 }

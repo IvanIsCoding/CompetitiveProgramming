@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc03s5
 #include <cstdio>
 #include <cstdlib>
 #include <algorithm>
@@ -96,5 +98,7 @@ int main(){
 		resp = min(resp,LCA(1,v));
 	}
 	printf("%d\n",resp);
+	return 0;
+}printf("%d\n",resp);
 	return 0;
 }

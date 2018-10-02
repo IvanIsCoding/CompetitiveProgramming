@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1820
 #include <cstdio>
 #include <unordered_set>
 #include <unordered_map>

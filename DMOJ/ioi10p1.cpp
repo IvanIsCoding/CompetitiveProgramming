@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi10p1
 #include "cluedo.h"
 #include <bits/stdc++.h>
 using namespace std;

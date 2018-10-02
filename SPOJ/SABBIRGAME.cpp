@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SABBIRGAME/
 #include <cstdio>
 typedef long long ll;
 const int MAXN = 1e3 + 1;

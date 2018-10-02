@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/apio12p1
 #include <bits/stdc++.h>
 using namespace std;
 const long long MAXN = 100010;
@@ -110,6 +112,10 @@ int main(){
 		cin >> j >> peso[i] >> lideranca[i];
 		grafo[j].push_back(i);
 	}
+	dfs(1);
+	cout << resp << endl;
+	return 0;
+}}
 	dfs(1);
 	cout << resp << endl;
 	return 0;

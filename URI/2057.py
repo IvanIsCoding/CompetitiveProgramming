@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/2057
 #!/usr/bin/env python2.7
 # encoding : utf-8
 numero = sum([int(i) for i in raw_input().split(" ")])

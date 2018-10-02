@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmpg15s6
 #include <algorithm>
 #include <string>
 #include <iostream>

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmpg17g2
 #include <cstdio>
 #include <algorithm>
 #define MAXN 100010
@@ -66,4 +68,5 @@ int main(){
 		else printf("%lld\n",query(1,1,n,b,c).maximo);
 	}
 	return 0;
+}
 }

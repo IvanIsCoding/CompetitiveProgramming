@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ahardergame
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1e6 + 10;

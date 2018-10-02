@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/HOTELS/
 #include <cstdio>
 #include <deque>
 #include <algorithm>

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1169
 #include <cmath>
 #include <cstdio>
 typedef unsigned long long llu;

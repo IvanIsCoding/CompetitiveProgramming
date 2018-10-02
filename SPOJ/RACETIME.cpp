@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/RACETIME/
 #include <iostream>
 #include <cmath>
 #include <set>

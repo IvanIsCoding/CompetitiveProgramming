@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c2p6
 #include <cstdio>
 #include <map>
 using namespace std;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc02s4
 #include <iostream>
 #include <string>
 #include <cstring>

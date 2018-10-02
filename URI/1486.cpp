@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1486
 #include <cstdio>
 int vetor[1001][1001],m,n,p;
 int main(){

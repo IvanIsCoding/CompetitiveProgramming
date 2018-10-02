@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/primefactor
 #include <cstdio>
 #include <vector>
 #include <algorithm>

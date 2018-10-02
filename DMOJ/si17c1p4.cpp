@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/si17c1p4
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -115,6 +117,9 @@ int main(){
  	for(int i = M;i>=1;i--){
  		update(1,1,M+1, i, query(1,1,M+1,i+1,i+comprimento[i]) + 1 );
  	}
+ 	printf("%d\n",query(1,1,M+1,1,1));
+	return 0;
+}}
  	printf("%d\n",query(1,1,M+1,1,1));
 	return 0;
 }

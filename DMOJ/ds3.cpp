@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ds3
 #include <cstdio>
 #include <cstdlib>
 #include <algorithm>
@@ -183,6 +185,15 @@ int main(){
 			int mdc = query_gcd(1,1,n,l,r);
 			if(!conversao.count(mdc)){
 				printf("0\n");
+			}
+			else{
+				int id = get_id(mdc);
+				printf("%d\n",query(raizes[id],l,r));
+			}
+		}
+	}
+	return 0;
+}			printf("0\n");
 			}
 			else{
 				int id = get_id(mdc);

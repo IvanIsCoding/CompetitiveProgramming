@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2446
 #include <cstdio>
 int n,alvo,tab[1010][100010],moedas[1010];
 char resposta;

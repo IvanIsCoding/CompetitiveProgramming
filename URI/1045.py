@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1045
 #!/usr/bin/env python2.7
 # encoding : utf-8
 a,b,c = sorted([float(k) for k in raw_input().split(" ")])

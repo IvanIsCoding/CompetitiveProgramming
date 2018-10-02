@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc12s4
 #include <bits/stdc++.h>
 using namespace std;
 typedef vector<long long> vi;
@@ -75,5 +77,7 @@ int main(){
 		}
 		if(!possivel) cout << "IMPOSSIBLE" << endl;
 	}
+	return 0;
+}
 	return 0;
 }

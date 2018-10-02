@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/vmss7wc15c1p3
 #include <cstdio>
 #include <algorithm>
 #define MAXN 7001

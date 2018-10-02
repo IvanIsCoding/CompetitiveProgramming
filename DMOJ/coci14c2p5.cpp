@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c2p5
 #include <bits/stdc++.h>
 using namespace std;
 typedef pair<int,int> ii;
@@ -91,5 +93,7 @@ int main(){
 		join(get<2>(sweep[i]),get<3>(sweep[i]));
 	}
 	printf("%d\n",granderesposta);
+	return 0;
+}deresposta);
 	return 0;
 }

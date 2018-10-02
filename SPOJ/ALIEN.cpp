@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ALIEN/
 #include <cstdio>
 #include <deque>
 #include <algorithm>

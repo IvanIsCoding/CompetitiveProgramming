@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/hci16xorpow
 #include <cstdio>
 int freq[4048],n,k,tot,resp;
 int main(){

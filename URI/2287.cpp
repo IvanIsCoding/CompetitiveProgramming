@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2287
 #include <cstdio>
 #include <cstring>
 int possivel[6][11],digito1[20],digito2[20],n,teste;

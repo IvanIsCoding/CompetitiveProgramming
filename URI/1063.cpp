@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1063
 #include <cstdio>
 #define MAX 30
 int n,tam;

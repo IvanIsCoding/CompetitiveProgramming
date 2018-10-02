@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci13c1p4
 #include <cstdio>
 #include <set>
 #define gc getchar_unlocked

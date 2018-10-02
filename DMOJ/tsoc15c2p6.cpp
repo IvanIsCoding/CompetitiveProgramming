@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/tsoc15c2p6
 #include <cstdio>
 #include <algorithm>
 #define MAXN 30100

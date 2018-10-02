@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco11p2
 #include <bits/stdc++.h>
 #define MT make_tuple
 #define PB push_back

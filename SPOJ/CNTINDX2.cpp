@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/CNTINDX2/
 #include <cstdio>
 #include <algorithm>
 #include <vector>

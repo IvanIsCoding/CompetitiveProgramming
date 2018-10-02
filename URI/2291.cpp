@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2291
 #include <cstdio>
 #define MAXN 1000001
 typedef long long ll;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc13s4
 #include <cstdio>
 #include <cstring>
 #include <vector>

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/joi14p1
 #include "factories.h"
 #include <bits/stdc++.h>
 using namespace std;
@@ -104,6 +106,10 @@ long long Query(int S, int X[], int T, int Y[]){
 	}
 	for(int i = 0;i<=T-1;i++){
 		resp = min(resp, queryup(Y[i]) );
+	}
+	return resp;
+}
+int main(){return 0;}
 	}
 	return resp;
 }

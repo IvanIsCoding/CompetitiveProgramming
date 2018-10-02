@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ncco2d1p1
 #include <bits/stdc++.h>
 using namespace std;
 

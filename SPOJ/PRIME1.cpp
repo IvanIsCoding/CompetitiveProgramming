@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/PRIME1/
 #include <cstdio>
 #include <cmath>
 #include <vector>

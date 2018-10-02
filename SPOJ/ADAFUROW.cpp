@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADAFUROW/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 2*1e4 + 10;

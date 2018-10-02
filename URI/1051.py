@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1051
 # -*- coding: utf-8 -*-
 e = float(raw_input())
 if e <= 2000:

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2716
 #include <bits/stdc++.h>
 using namespace std;
 bitset<300010> bt;

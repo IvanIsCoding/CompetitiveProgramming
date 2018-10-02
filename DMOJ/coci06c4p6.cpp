@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c4p6
 #include <bits/stdc++.h>
 using namespace std;
 typedef struct node* pnode;
@@ -122,6 +124,11 @@ int main(){
 				trinca nova = make_tuple(aa,b,0);
 				trinca davez = *conjunto.lower_bound(nova);
 				printf("%d\n",get<2>(davez));
+			}
+		}
+	}
+	return 0;
+}		printf("%d\n",get<2>(davez));
 			}
 		}
 	}

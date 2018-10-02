@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci15c2p6
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;

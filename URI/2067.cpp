@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2067
 #include <cstdio>
 #define MAXN 201
 int possivel[MAXN],soma[MAXN][MAXN],n,m;

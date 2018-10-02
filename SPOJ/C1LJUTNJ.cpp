@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/C1LJUTNJ/
 #include <bits/stdc++.h>
 using namespace std;
 

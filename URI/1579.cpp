@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1579
 #include <cstdio>
 int paineis[101],caminhoes,frete,totalpaineis;
 int checa(int peso){

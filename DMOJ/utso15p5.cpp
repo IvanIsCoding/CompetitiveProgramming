@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/utso15p5
 #include <bits/stdc++.h>
 using namespace std;
 typedef tuple<int,int,int> trinca;
@@ -97,5 +99,7 @@ int main(){
 	}
 	sort(preguica.begin(),preguica.end());
 	printf("%d\n",preguica[0]);
+	return 0;
+}"%d\n",preguica[0]);
 	return 0;
 }

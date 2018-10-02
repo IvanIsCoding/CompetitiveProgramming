@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1219
 #!/usr/bin/env python2.7
 # encoding : utf-8
 from math import pi as pi

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/thicc17p6
 #include <bits/stdc++.h>
 #define gc getchar_unlocked
 void getint(int &x){

@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1050
 # -*- coding: utf-8 -*-
 ddd = {11:"Sao Paulo",
 71:"Salvador",

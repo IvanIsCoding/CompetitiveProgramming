@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi14p2
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
@@ -168,6 +170,13 @@ void buildWall(int n, int k, int op[], int left[], int right[], int height[], in
 		}
 		if (a == 2){
 			update_descer(0,0,N-1,b,c,d);
+		}
+	}
+	for(int i=0;i<n;i++) finalHeight[i] = query(0,0,n-1,i);
+}
+int main(){
+	return 0;
+},0,N-1,b,c,d);
 		}
 	}
 	for(int i=0;i<n;i++) finalHeight[i] = query(0,0,n-1,i);

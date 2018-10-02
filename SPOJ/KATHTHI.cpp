@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/KATHTHI/
 #include <cstdio>
 #include <deque>
 #define MAXN 1010

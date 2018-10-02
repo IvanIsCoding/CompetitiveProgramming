@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/tle17c1p2
 #include <bits/stdc++.h>
 using namespace std;
 typedef pair<int,string> si;

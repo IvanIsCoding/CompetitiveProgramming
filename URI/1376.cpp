@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1376
 #include <cstdio>
 #define MAXN 101
 int r,c,n,k,matriz[MAXN][MAXN],novamatriz[MAXN][MAXN];

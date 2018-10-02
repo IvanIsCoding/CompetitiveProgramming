@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2700
 #include <bits/stdc++.h>
 #define LSOne(S) (S & (-S))
 using namespace std;

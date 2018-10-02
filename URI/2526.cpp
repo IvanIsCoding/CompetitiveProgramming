@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2526
 #include <cstdio>
 #include <cstring>
 #define LSOne(S) (S & (-S))

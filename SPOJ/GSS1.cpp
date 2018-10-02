@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/GSS1/
 #include <cstdio>
 #include <algorithm>
 #define MAXN 50010

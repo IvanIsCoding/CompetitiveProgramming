@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/det
 #include <cstdio>
 typedef long long ll;
 const int MAXN = 501;
@@ -80,5 +82,7 @@ int main(){
 	fora += MOD;
 	fora %= MOD;
 	printf("%lld\n",fora);
+	return 0;
+}",fora);
 	return 0;
 }

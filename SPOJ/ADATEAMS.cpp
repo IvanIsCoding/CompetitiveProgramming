@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADATEAMS/
 #include <cstdio>
 typedef long long ll;
 const ll MAXN = 1e6 + 1;

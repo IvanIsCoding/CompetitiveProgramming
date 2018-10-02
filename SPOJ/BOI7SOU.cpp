@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/BOI7SOU/
 #include <bits/stdc++.h>
 using namespace std;
 typedef pair<int,int> ii;

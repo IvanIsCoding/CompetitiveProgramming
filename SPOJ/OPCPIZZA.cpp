@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/OPCPIZZA/
 #include <cstdio>
 #include <unordered_map>
 using namespace std;

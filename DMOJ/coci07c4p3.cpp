@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c4p3
 #include <bits/stdc++.h>
 using namespace std;
 vector<string> cjt;

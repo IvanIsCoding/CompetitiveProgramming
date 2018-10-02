@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/gfssoc16s2
 #include <cstdio>
 typedef long long ll;
 ll a,b;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccoprep16c2q2
 #include <cstdio>
 #include <algorithm>
 #define MAXL 31

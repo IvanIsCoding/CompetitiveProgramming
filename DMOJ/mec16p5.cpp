@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/mec16p5
 #include <bits/stdc++.h>
 #define F first
 #define S second

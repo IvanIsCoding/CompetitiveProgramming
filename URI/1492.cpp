@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1492
 #include <cstdio>
 typedef unsigned long long llu;
 llu log2(llu n){

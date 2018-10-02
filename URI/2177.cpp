@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2177
 #include <cstdio>
 int main(){
 	long long x,y,pontos,contador=0;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c3p4
 #include <cstdio>
 #include <vector>
 #include <map>

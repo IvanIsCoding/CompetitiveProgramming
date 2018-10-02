@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2465
 #include <cstdio>
 #define MAXN 102
 int matriz[MAXN][MAXN],processado[MAXN][MAXN],n,xo,yo,resp;

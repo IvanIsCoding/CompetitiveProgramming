@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1310
 #include <cstdio>
 #define max(A,B) (A>B) ? (A) : (B)
 int main(){

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci06c1p2
 #include <cstdio>
 #include <cmath>
 #define PI acos(-1.0)

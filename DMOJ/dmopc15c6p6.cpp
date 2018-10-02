@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmopc15c6p6
 #include <cstdio>
 #include <bitset>
 using namespace std;

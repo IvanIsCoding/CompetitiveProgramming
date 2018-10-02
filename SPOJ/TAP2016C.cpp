@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2016C/
 #include <cstdio>
 #include <vector>
 #define MAXN 50010

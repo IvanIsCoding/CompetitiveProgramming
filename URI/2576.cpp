@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2576
 #include <cstdio>
 #include <deque>
 #include <vector>

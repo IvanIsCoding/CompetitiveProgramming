@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c4p4
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 501;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccc07s5
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

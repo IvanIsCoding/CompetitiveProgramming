@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/DCEPCA03/
 #include <bits/stdc++.h>
 using namespace std;
 const long long MAXN = 1e4 + 2;

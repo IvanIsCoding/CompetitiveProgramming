@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/phantom3
 #include <cstdio>
 typedef long long ll;
 bool primo[100001],crivo[20000001];

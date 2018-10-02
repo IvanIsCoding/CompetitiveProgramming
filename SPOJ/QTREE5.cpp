@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/QTREE5/
 #include <bits/stdc++.h>
 #define MAXN 100110
 #define MAXL 18

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/NFACTOR/
 #include <cstdio>
 const int MAXN = 1e6 + 1;
 const int MAXL = 11;

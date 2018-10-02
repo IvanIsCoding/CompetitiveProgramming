@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/RMID/
 #include <bits/stdc++.h>
 using namespace std;
 multiset<int> tree1,tree2;

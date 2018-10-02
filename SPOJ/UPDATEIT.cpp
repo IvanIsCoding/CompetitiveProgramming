@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/UPDATEIT/
 #include <cstdio>
 #include <cstring>
 #define LSOne(S) (S&(-S))

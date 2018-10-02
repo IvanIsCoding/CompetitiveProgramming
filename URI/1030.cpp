@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1030
 #include <cstdio>
 int josephus(int n, int k){
 	if (n==1) return 1;

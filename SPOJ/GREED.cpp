@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/GREED/
 #include <bits/stdc++.h>
 using namespace std;
  

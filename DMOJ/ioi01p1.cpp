@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi01p1
 #include <cstdio>
 #define MAXN 1030
 #define LSOne(S) (S&(-S))

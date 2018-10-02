@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci15c1p3
 #include <cstdio>
 int vetor[1000010],marcado[1000010];
 int main(){

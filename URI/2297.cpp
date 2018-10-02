@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2297
 #include <cstdio>
 int main() {
 	int n, j1, j2, t1=0, t2=0, i, teste=1;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADAGF/
 #include <cstdio>
 #include <map>
 #include <algorithm>

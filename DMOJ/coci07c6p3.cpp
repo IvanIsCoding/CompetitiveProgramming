@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c6p3
 #include <bits/stdc++.h>
 using namespace std;
 vector<int> resp,organizado;

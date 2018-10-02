@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmopc16c2p2
 #include <cstdio>
 #define MAXN 100010
 int pai[MAXN],peso[MAXN],conjuntos,vetor[MAXN];

@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1875
 # -*- coding: utf-8 -*-
 
 TC = int(input())

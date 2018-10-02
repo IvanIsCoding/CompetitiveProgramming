@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/AKVQLD03/
 #include <cstdio>
 #define MAXN 1000010
 #define LSOne(S) (S & (-S))

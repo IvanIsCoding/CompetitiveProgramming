@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/COT/
 #include <cstdio>
 #include <vector>
 #include <algorithm>

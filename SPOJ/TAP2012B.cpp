@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2012B/
 #include <cstdio>
 #include <algorithm>
 #define MAXN 10000

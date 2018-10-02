@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/tle16c1p5
 #include <cstdio>
 #include <vector>
 #include <algorithm>
@@ -77,4 +79,5 @@ int main(){
 	dfs(n,-1);
 	for(ll i=1;i<n;i++) printf("%lld\n",custo[i]);
 	return 0;
+}	return 0;
 }

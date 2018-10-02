@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/hci16penguinfood
 #include <cstdio>
 #include <algorithm>
 #define MAXN 1000010

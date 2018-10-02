@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/RANGESUM/
 #include <cstdio>
 #include <deque>
 #define MAXN 100010

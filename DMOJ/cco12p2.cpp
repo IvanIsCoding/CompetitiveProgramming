@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco12p2
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 20010;

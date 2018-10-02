@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/LIS2/
 #include <bits/stdc++.h>
 #define LSOne(S) (S & (-S))
 using namespace std;

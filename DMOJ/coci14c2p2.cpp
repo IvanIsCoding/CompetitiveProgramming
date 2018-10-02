@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci14c2p2
 #include <bits/stdc++.h>
 using namespace std;
 multiset<string> cjt;

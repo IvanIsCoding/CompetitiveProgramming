@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1110
 #include <cstdio>
 #define MAXT 1010
 int fila[MAXT],ini=1,fim;

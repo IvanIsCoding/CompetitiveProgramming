@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco16p5
 #include <bits/stdc++.h>
 using namespace std;
 typedef tuple<int,int,int,int> quadra;
@@ -74,4 +76,5 @@ int main(){
 	cin >> objetivo;
 	cout << solve(objetivo) - solve(objetivo-1) << endl;
 	return 0;
+}return 0;
 }

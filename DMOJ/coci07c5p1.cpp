@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c5p1
 #include <cstdio>
 int main(){
 	int a,b,c;

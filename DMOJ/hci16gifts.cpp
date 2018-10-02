@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/hci16gifts
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -91,5 +93,7 @@ int main(){
 		resp = max(resp,best + secondbest);
 	}
 	cout << resp << endl;
+	return 0;
+}esp << endl;
 	return 0;
 }

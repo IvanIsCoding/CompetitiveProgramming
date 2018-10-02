@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2440
 // Link do problema : http://olimpiada.ic.unicamp.br/pratique/programacao/nivel2/2013f2p2_troia
 // No CodCad na seção grafos há uma explicação do problema
 // Também pode ser útil : http://noic.com.br/informatica/curso-noic-de-informatica/aula-9-grafos-parte-ii-flood-fill/

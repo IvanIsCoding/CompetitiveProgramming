@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/crci07p2
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 1001;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/EC_P/
 #include <bits/stdc++.h>
 #define endl '\n'
 using namespace std;

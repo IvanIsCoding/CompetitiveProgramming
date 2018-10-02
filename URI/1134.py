@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1134
 #!/usr/bin/env python2.7
 # encoding : utf-8
 dicio = {1:0,2:0,3:0}

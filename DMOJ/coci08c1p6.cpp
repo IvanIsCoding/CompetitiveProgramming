@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci08c1p6
 #include <bits/stdc++.h>
 using namespace std;
 typedef pair<int,int> ii;
@@ -106,5 +108,7 @@ int main(){
 	cout << melhor << endl;
 	cout << escolhido1 << " " << escolhido2 << endl;
 	cout << par1.second << " " << par2.second << endl;
+	return 0;
+}" " << par2.second << endl;
 	return 0;
 }

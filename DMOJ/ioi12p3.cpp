@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi12p3
 #include <cstdio>
 #include <cstring>
 #define MAXN 1000010

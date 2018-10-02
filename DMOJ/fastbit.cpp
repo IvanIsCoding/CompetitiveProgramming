@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/fastbit
 #include <cstdio>
 int setbits(unsigned long long w)
 {

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2014B/
 #include <iostream>
 #include <algorithm>
 #include <string>

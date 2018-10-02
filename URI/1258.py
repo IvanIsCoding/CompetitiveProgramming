@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1258
 #!/usr/bin/en vpython2.7
 # -*- coding : utf-8 -*-
 primeiro = True

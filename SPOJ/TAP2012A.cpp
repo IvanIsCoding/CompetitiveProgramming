@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2012A/
 #include <cstdio>
 #include <queue>
 int vetor[600];

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/xor
 #include <cstdio>
 int xor1(int x){
 	if(x % 4 ==0) return x;

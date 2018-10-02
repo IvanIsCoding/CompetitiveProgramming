@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2111
 #include <cstdio>
 char matriz[10][10];
 void seta0(int pos){

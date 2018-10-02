@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2014G/
 #include <cstdio>
 #include <algorithm>
 #include <vector>

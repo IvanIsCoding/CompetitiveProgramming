@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/KQUERY/
 #include <cstdio>
 #include <algorithm>
 #include <deque>

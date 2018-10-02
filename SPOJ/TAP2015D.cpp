@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2015D/
 #include <cstdio>
 #include <algorithm>
 #include <set>

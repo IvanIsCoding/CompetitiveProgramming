@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci15c2p5
 #include <bits/stdc++.h>
 #define LSOne(S) (S & (-S))
 using namespace std;

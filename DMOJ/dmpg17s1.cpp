@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmpg17s1
 #include <iostream>
 #include <cstdlib>
 #include <vector>

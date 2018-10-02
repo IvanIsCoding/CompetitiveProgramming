@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1381
 #include <cstdio>
 #define MODULO 1300031LL
 #define MAXN 2000010

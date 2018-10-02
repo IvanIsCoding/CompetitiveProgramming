@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/GSS4/
 #include <cstdio>
 #include <cmath>
 #include <cstring>

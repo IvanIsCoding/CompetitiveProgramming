@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1580
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 from math import factorial

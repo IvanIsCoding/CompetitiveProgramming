@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ds2
 #include <cstdio>
 #define MAXN 100010
 int peso[MAXN],pai[MAXN],resposta[MAXN],vertice,conjuntos,n,m;

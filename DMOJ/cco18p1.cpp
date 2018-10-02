@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco18p1
 #include <bits/stdc++.h>
 using namespace std;
 

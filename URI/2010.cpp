@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/2010
 #include <bits/stdc++.h>
 using namespace std;
 typedef tuple<int,int,int> trinca;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ccoprep2p1
 #include <cstdio>
 #define MAXK 3
 #define REP(A,B) for(int (A)=0;(A)<(B);(A)++)

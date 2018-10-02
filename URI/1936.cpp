@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1936
 #include <cstdio>
 int fatorial(int x){
 	if (x == 0 || x == 1) return 1;

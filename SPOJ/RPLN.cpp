@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/RPLN/
 #include <cstdio>
 #include <algorithm>
 #define MAXN 100001

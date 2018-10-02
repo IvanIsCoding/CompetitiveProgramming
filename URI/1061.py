@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1061
 # -*- coding: utf-8 -*-
 d1 = int([k for k in raw_input().split(" ")][1])
 h1,m1,s1 = [int(k) for k in raw_input().split(" ") if k != ":"]

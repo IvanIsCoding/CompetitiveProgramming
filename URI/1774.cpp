@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1774
 #include <algorithm>
 #include <cstdio>
 #define MAX 300

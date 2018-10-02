@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1531
 #include <bits/stdc++.h>
 using namespace std;
 map<int,int> pisano;

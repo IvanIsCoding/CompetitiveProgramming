@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/1256
 # -*- coding: utf-8 -*-
 
 def exibe(lista):

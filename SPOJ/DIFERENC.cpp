@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/DIFERENC/
 #include <bits/stdc++.h>
 using namespace std;
 const int MAXN = 3*1e5 + 10;

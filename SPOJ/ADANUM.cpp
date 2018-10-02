@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/ADANUM/
 #include <cstdio>
 #include <cmath>
 #include <algorithm>

@@ -1,3 +1,5 @@
+# Ivan Carvalho
+# Solution to https://www.urionlinejudge.com.br/judge/problems/view/2152
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 dicio = {x: "0%d" % (x) for x in xrange(0,10)}

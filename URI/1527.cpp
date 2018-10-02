@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1527
 #include <cstdio>
 #define MAXN 100100
 int pai[MAXN],peso[MAXN],pontuacao[MAXN],n,m;

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/HORRIBLE/
 #include <cstdio>
 #include <cstring>
 #define MAXN 100010

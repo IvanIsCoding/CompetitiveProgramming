@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ds4
 #include <cstdio>
 #include <cstdlib>
 typedef struct node* pnode;
@@ -112,6 +114,12 @@ int main(){
 		else{
 			last = cnt(raiz,v);
 			printf("%d\n",last);
+		}
+	}
+	finaliza(raiz);
+	printf("\n");
+	return 0;
+};
 		}
 	}
 	finaliza(raiz);

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/LOPOV/
 #include <cstdio>
 #include <set>
 #define gc getchar_unlocked

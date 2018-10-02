@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/TAP2013C/
 #include <cstdio>
 #include <algorithm>
 #include <cstring>

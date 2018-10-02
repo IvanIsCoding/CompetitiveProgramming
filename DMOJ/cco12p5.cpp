@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/cco12p5
 #include <cstdio>
 #include <cstring>
 #include <cmath>

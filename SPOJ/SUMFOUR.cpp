@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SUMFOUR/
 #include <bits/stdc++.h>
 using namespace std;
 #define MAXN 4001

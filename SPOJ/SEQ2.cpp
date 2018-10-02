@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/SEQ2/
 #include <bits/stdc++.h>
 using namespace std;
 typedef struct node* pnode;

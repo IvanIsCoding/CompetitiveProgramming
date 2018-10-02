@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi14p4
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -115,6 +117,9 @@ int main(){
 	}
 	else{
 		printf("%d\n",countReplacement(n,entrada));
+	}
+	return 0;
+}"%d\n",countReplacement(n,entrada));
 	}
 	return 0;
 }

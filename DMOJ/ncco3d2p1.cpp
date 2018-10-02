@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ncco3d2p1
 #include <bits/stdc++.h>
 #define gc getchar_unlocked
 void getint(int &x){

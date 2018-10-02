@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci07c2p1
 #include <cstdio>
 #include <cstdlib>
 int main(){

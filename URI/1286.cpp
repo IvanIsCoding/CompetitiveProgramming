@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1286
 #include <bits/stdc++.h>
 #define MAXN 1010
 using namespace std;

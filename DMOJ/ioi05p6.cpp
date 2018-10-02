@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/ioi05p6
 #include <bits/stdc++.h>
 using namespace std;
 

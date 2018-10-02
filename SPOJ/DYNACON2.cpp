@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/DYNACON2/
 // This is solution also works with DYNACON1
 #include <bits/stdc++.h>
 using namespace std;

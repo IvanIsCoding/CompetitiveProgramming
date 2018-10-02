@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/coci08c4p4
 #include <bits/stdc++.h>
 using namespace std;
 typedef tuple<int,int,int,int> quadra;
@@ -81,6 +83,9 @@ int main(){
 			printf("%d",exibe[i][j]);
 		}
 		printf("\n");
+	}
+	return 0;
+}
 	}
 	return 0;
 }

@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/dmpg17s2
 #include <cstdio>
 #define MAXN 100010
 int pai[MAXN],peso[MAXN],n,m;

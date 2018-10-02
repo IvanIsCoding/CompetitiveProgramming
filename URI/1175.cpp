@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.urionlinejudge.com.br/judge/problems/view/1175
 #include <cstdio>
 int main(){
 	int vetor[20];

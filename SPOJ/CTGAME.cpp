@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://www.spoj.com/problems/CTGAME/
 #include <cstdio>
 #include <algorithm>
 using namespace std;

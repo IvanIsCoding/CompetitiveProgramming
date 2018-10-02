@@ -1,3 +1,5 @@
+// Ivan Carvalho
+// Solution to https://dmoj.ca/problem/thicc17p1
 n,m = [int(i) for i in raw_input().split()]
 modulo = 1000000007
 entrada = [int(i) for i in raw_input().split()]
