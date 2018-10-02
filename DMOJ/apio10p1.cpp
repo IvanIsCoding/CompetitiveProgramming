@@ -72,5 +72,4 @@ int main(){
 		printf("%lld\n",best);
 	}
 	return 0;
-}n 0;
 }
