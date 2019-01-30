@@ -1,5 +1,5 @@
 // Ivan Carvalho
-// Solution to https://dmoj.ca/problem/dp_a
+// Solution to https://dmoj.ca/problem/dpb
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -10,8 +10,7 @@ int dp[MAXN],N,K,h[MAXN];
 
 int main(){
 
-	scanf("%d",&N);
-	K = 2;
+	scanf("%d %d",&N,&K);
 	for(int i = 1;i<=N;i++){
 		scanf("%d",&h[i]);
 	}

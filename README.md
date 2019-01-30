@@ -2,7 +2,7 @@
 
 This repository contains solutions to a plethora of algorithmic problems that come mainly from 3 online judges:
 
-* [DMOJ](https://dmoj.ca/) - 300+ problems
+* [DMOJ](https://dmoj.ca/) - 400+ problems
 * [SPOJ](http://www.spoj.com/) - 200+ problems
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt) - 850+ problems
 

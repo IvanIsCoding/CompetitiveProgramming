@@ -1,5 +1,5 @@
 // Ivan Carvalho
-// Solution to https://dmoj.ca/problem/dp_k
+// Solution to https://dmoj.ca/problem/dpk
 #include <bits/stdc++.h>
 using namespace std;
 

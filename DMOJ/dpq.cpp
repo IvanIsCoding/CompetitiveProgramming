@@ -1,5 +1,5 @@
 // Ivan Carvalho
-// Solution to https://dmoj.ca/problem/dp_q
+// Solution to https://dmoj.ca/problem/dpq
 #include <bits/stdc++.h>
 #define LSOne(S) ((S) & (-S))
 using namespace std;
