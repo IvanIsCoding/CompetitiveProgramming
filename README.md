@@ -15,6 +15,6 @@ Most solutions were coded between Mid 2016 and Late 2018. They were inteded as a
 
 Because the solutions were meant for competitions, they **do** contain software practices that should be avoided. Global variables are frequent in the codes, all the C++ librarys are imported and most of the code is not commented. The readers should keep this is mind and be aware that they should not code like that outstide programming contests.  
 
-### About the author
+## About the author
 
 I have participated in many programming competitions, such as the International Olympiad in Informatics, the Brazilian Olympiad in Informatics, the Ibero-American Contest in Informatics and ICPC PacNW. To read more about my experience in competitive programming, see my [blog](https://ivaniscoding.github.io/about/index.html). 
