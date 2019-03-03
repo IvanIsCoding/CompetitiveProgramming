@@ -1,5 +1,4 @@
-# Olympiad Solutions
-
+# Olympiad Solutions [![Algorithms](https://img.shields.io/badge/-algorithms-green.svg)](https://github.com/topics/algorithms) [![Data Structures](https://img.shields.io/badge/-data%20structures-green.svg)](https://github.com/topics/data-structures)
 This repository contains solutions to a plethora of algorithmic problems that come mainly from 3 online judges:
 
 * [DMOJ](https://dmoj.ca/) - 400+ problems
