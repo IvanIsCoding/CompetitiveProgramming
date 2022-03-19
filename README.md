@@ -3,7 +3,7 @@ This repository contains solutions to a plethora of algorithmic problems that co
 
 * [DMOJ](https://dmoj.ca/) - 400+ problems
 * [SPOJ](http://www.spoj.com/) - 200+ problems
-* [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt) - 850+ problems
+* [Beecrowd (formerly known as URI Online Judge)](https://www.beecrowd.com.br/judge/pt) - 850+ problems
 
 ## Structure
 
