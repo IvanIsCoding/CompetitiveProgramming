@@ -9,29 +9,25 @@ const int MAXN = 3002;
 
 ll dp[MAXN][MAXN];
 bool vis[MAXN][MAXN];
-int A[MAXN],N;
+int A[MAXN], N;
 
-ll solve(int i,int j){
+ll solve(int i, int j) {
+    if (vis[i][j]) return dp[i][j];
 
-	if(vis[i][j]) return dp[i][j];
+    vis[i][j] = 1;
 
-	vis[i][j] = 1;
+    if (i == j) return dp[i][j] = A[i];
 
-	if(i == j) return dp[i][j] = A[i];
-
-	return dp[i][j] = max(A[i] - solve(i+1,j), A[j] - solve(i,j-1));
-
+    return dp[i][j] = max(A[i] - solve(i + 1, j), A[j] - solve(i, j - 1));
 }
 
-int main(){
+int main() {
+    cin >> N;
+    for (int i = 1; i <= N; i++) {
+        cin >> A[i];
+    }
 
-	cin >> N;
-	for(int i = 1;i<=N;i++){
-		cin >> A[i];
-	} 
+    cout << solve(1, N) << endl;
 
-	cout << solve(1,N) << endl;
-
-	return 0;
-
+    return 0;
 }

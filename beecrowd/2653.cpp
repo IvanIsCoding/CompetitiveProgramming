@@ -2,10 +2,10 @@
 // Solution to https://www.beecrowd.com.br/judge/problems/view/2653
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
+int main() {
     string s;
     set<string> cjt;
-    while(cin >> s){
+    while (cin >> s) {
         cjt.insert(s);
     }
     cout << cjt.size() << endl;
