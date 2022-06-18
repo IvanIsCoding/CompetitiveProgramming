@@ -2,14 +2,14 @@
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1042
 # -*- coding: utf-8 -*-
 
-'''
+"""
 Escreva a sua solução aqui
 Code your solution here
 Escriba su solución aquí
-'''
-array = [int(i) for i in raw_input().split(" ")]
+"""
+array = [int(i) for i in input().split(" ")]
 for i in sorted(array):
-    print i
-print ""
+    print(i)
+print("")
 for i in array:
-    print i
+    print(i)

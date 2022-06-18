@@ -2,17 +2,17 @@
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1581
 #!/usr/bin/env python2.7
 # encoding : utf-8
-ordem = int(raw_input())
+ordem = int(input())
 linguas = []
-for i in xrange(ordem):
-	subordem = int(raw_input())
-	sublinguas = []
-	for j in xrange(subordem):
-		sublinguas.append(raw_input())
-	linguas.append(sublinguas)
+for i in range(ordem):
+    subordem = int(input())
+    sublinguas = []
+    for j in range(subordem):
+        sublinguas.append(input())
+    linguas.append(sublinguas)
 for array in linguas:
-	lingua = array[0]
-	if all([k==lingua for k in array]):
-		print lingua
-	else:
-		print "ingles"
+    lingua = array[0]
+    if all([k == lingua for k in array]):
+        print(lingua)
+    else:
+        print("ingles")

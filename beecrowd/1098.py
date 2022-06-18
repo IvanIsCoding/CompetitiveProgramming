@@ -6,11 +6,13 @@ def b(numero):
         return str(int(numero))
     else:
         return str(numero)
+
+
 i = 0
 j = 10
 while i <= 20:
-    print "I=%s J=%s" % (b(i/10.0),b(j/10.0))
-    print "I=%s J=%s" % (b(i/10.0),b((j+10)/10.0))
-    print "I=%s J=%s" % (b(i/10.0),b((j+20)/10.0))
+    print("I=%s J=%s" % (b(i / 10.0), b(j / 10.0)))
+    print("I=%s J=%s" % (b(i / 10.0), b((j + 10) / 10.0)))
+    print("I=%s J=%s" % (b(i / 10.0), b((j + 20) / 10.0)))
     i += 2
     j += 2

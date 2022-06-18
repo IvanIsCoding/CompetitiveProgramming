@@ -4,15 +4,15 @@
 # -*- coding : utf -8 -*-
 alfabeto = "0123456789ABCDEFGHIJKLMNOPQRSTUV"
 dicio = {}
-for i in xrange(len(alfabeto)):
-	dicio[i] = alfabeto[i]
+for i in range(len(alfabeto)):
+    dicio[i] = alfabeto[i]
 while True:
-	n = int(raw_input())
-	if n == 0:
-		print "0"
-		break
-	invertido = []
-	while n > 0:
-		invertido.append(dicio[n%32])
-		n /= 32
-	print "".join(invertido)[::-1]
+    n = int(input())
+    if n == 0:
+        print("0")
+        break
+    invertido = []
+    while n > 0:
+        invertido.append(dicio[n % 32])
+        n /= 32
+    print("".join(invertido)[::-1])

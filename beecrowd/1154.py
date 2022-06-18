@@ -4,9 +4,9 @@
 # encoding : utf-8
 array = []
 while True:
-	entrada = int(raw_input())
-	if entrada < 0:
-		break
-	else:
-		array.append(entrada)
-print "%.2f" % (sum(array)/float(len(array)))
+    entrada = int(input())
+    if entrada < 0:
+        break
+    else:
+        array.append(entrada)
+print("%.2f" % (sum(array) / float(len(array))))

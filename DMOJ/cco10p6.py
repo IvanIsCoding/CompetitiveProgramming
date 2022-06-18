@@ -6,27 +6,27 @@ alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_"
 tamanho = 27
 binario = [{}]
 for i in alfabeto:
-	binario[0][i] = i 
-logartimos = range(32)
+    binario[0][i] = i
+logartimos = list(range(32))
 for i in alfabeto:
-	davez = raw_input()
-	binario.append({})
-	binario[1][i] = davez
-vez = int(raw_input())
-raiz = min(int(vez**0.5)+1,vez)
-for i in xrange(2,raiz+1):
-	binario.append({})
-	for j in alfabeto:
-		binario[i][j] = binario[1][binario[i-1][j]]
+    davez = input()
+    binario.append({})
+    binario[1][i] = davez
+vez = int(input())
+raiz = min(int(vez**0.5) + 1, vez)
+for i in range(2, raiz + 1):
+    binario.append({})
+    for j in alfabeto:
+        binario[i][j] = binario[1][binario[i - 1][j]]
 resto = vez % raiz
 quociente = vez - resto
 quociente /= raiz
 if resto != 0:
-	resposta = binario[resto]
+    resposta = binario[resto]
 elif resto == 0 and vez != 0:
-	resposta = binario[raiz]
-for i in xrange(quociente):
-	for j in alfabeto:
-		resposta[j] = binario[raiz][resposta[j]]
-entrada = [resposta[i] for i in raw_input()]
-print "".join(entrada)
+    resposta = binario[raiz]
+for i in range(quociente):
+    for j in alfabeto:
+        resposta[j] = binario[raiz][resposta[j]]
+entrada = [resposta[i] for i in input()]
+print("".join(entrada))

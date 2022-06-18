@@ -3,20 +3,21 @@
 #!/usr/bin/env python2.7
 # -*- coding : utf-8 -*-
 from math import factorial
-alfabeto = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
+alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 modulo = 10**9 + 7
 precalculo = {}
-for i in xrange(1001):
-	precalculo[i] = factorial(i)
+for i in range(1001):
+    precalculo[i] = factorial(i)
 while True:
-	try:
-		entrada = raw_input()
-	except EOFError:
-		break
-	dicio = {i : 0 for i in alfabeto}
-	for i in entrada:
-		dicio[i] += 1
-	grandao = precalculo[len(entrada)]
-	for a,b in dicio.iteritems():
-		grandao /= precalculo[b]
-	print grandao % modulo
+    try:
+        entrada = input()
+    except EOFError:
+        break
+    dicio = {i: 0 for i in alfabeto}
+    for i in entrada:
+        dicio[i] += 1
+    grandao = precalculo[len(entrada)]
+    for a, b in dicio.items():
+        grandao /= precalculo[b]
+    print(grandao % modulo)

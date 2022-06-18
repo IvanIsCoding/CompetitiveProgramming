@@ -2,10 +2,10 @@
 # Solution to https://www.beecrowd.com.br/judge/problems/view/2780
 # -*- coding : utf-8 -*-
 
-D = int(input())
+D = int(eval(input()))
 if D <= 800:
-	print(1)
+    print((1))
 elif D <= 1400:
-	print(2)
+    print((2))
 else:
-	print(3)
+    print((3))

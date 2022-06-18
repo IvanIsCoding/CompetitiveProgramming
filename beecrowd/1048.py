@@ -1,7 +1,7 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1048
 # encoding : utf-8
-e = float(raw_input())
+e = float(input())
 coeficiente = 0
 novo = 0
 if e <= 400:
@@ -19,6 +19,6 @@ elif e <= 2000:
 else:
     novo = e * 1.04
     coeficiente = 4
-print 'Novo salario: %.2f' % novo
-print 'Reajuste ganho: %.2f' % (novo - e)
-print 'Em percentual: %d %%' % coeficiente
+print("Novo salario: %.2f" % novo)
+print("Reajuste ganho: %.2f" % (novo - e))
+print("Em percentual: %d %%" % coeficiente)

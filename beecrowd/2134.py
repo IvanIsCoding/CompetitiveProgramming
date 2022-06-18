@@ -4,16 +4,16 @@
 # -*- coding : utf-8 -*-
 count = 1
 while True:
-	try:
-		ordem = int(raw_input())
-	except EOFError:
-		break
-	lista = []
-	for i in xrange(ordem):
-		a,b = raw_input().split()
-		lista.append((-int(b),a))
-	lista.sort()
-	print "Instancia %d" % count
-	count += 1
-	print lista[-1][1]
-	print ""
+    try:
+        ordem = int(input())
+    except EOFError:
+        break
+    lista = []
+    for i in range(ordem):
+        a, b = input().split()
+        lista.append((-int(b), a))
+    lista.sort()
+    print("Instancia %d" % count)
+    count += 1
+    print(lista[-1][1])
+    print("")

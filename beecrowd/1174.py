@@ -3,8 +3,8 @@
 #!/usr/bin/env python2.7
 # encoding : utf-8
 array = []
-for i in xrange(100):
-	array.append(float(raw_input()))
-for a,b in enumerate(array):
-	if b <= 10:
-		print "A[%d] = %.1f" % (a,b)
+for i in range(100):
+    array.append(float(input()))
+for a, b in enumerate(array):
+    if b <= 10:
+        print("A[%d] = %.1f" % (a, b))

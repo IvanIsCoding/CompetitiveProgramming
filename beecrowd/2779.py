@@ -2,12 +2,12 @@
 # Solution to https://www.beecrowd.com.br/judge/problems/view/2779
 # -*- coding : utf-8 -*-
 
-N = int(input())
-M = int(input())
+N = int(eval(input()))
+M = int(eval(input()))
 cjt = set()
 
 for i in range(M):
-	x = int(input())
-	cjt.add(x)
+    x = int(eval(input()))
+    cjt.add(x)
 
-print(N - len(cjt))
+print((N - len(cjt)))
