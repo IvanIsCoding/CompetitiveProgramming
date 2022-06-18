@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1131
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding :utf-8
 counti = 0
 countg = 0

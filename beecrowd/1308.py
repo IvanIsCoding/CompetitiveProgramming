@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1308
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # -*- coding : utf-8 -*-
 tc = int(input())
 for tcdavez in range(tc):

@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1132
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 entrada1 = int(input())
 entrada2 = int(input())

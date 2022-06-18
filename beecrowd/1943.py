@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1943
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 e = int(input())
 if e == 1:

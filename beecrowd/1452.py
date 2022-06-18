@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1452
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # -*- coding : utf-8 -*-
 while True:
     n, m = [int(i) for i in input().split()]

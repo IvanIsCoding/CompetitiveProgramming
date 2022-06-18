@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1134
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 dicio = {1: 0, 2: 0, 3: 0}
 while True:

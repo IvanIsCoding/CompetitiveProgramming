@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://dmoj.ca/problem/ccc96s4
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # -*- coding : utf-8 -*-
 def to_roman(entrada):
     array = []

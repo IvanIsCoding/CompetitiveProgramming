@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/2157
-#!/usr/bbin/env python2.7
+#!/usr/bbin/env python
 # -*- coding : utf-8 -*-
 tc = int(input())
 for algo in range(tc):

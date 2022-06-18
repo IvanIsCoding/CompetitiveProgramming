@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1383
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 ordem = int(input())
 padrao = list(range(1, 10))

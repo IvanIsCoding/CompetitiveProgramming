@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://dmoj.ca/problem/gfssoc3s1
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # -*- coding : utf-8 -*-
 n = int(input())
 resp = ""

@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1307
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 def gcd(a, b):
     x, y = sorted([a, b])

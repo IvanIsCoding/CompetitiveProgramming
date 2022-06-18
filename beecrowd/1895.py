@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1895
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 n, to, l = [int(i) for i in input().split(" ")]
 counta = 0

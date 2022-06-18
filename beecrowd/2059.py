@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/2059
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 p, j1, j2, r, a = [int(i) for i in input().split(" ")]
 if r ^ a:

@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.spoj.com/problems/DANGER/
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # -*- coding : utf-8 -*-
 from math import log, floor
 

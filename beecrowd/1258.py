@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1258
-#!/usr/bin/en vpython2.7
+#!/usr/bin/en vpython
 # -*- coding : utf-8 -*-
 primeiro = True
 while True:

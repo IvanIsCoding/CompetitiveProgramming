@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1144
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 ordem = int(input())
 for i in range(1, ordem + 1):

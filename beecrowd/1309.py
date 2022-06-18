@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1309
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 def metodo(texto):
     if texto in [str(i) for i in range(10)]:

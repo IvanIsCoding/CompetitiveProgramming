@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://dmoj.ca/problem/factorial
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # -*- coding : utf-8 -*-
 mod = 2**32
 testes = int(input())

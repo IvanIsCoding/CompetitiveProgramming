@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1176
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 ordem = int(input())
 array = []
 for i in range(ordem):

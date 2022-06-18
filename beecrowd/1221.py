@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1221
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # encoding : utf-8
 def primo(x):
     return x == 2 or x % 2 != 0 and all([x % i for i in range(3, int(x**0.5) + 1, 2)])

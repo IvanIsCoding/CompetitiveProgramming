@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://www.beecrowd.com.br/judge/problems/view/1183
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 array = [[0 for j in range(12)] for k in range(12)]
 operacao = input()
 count = 0

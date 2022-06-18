@@ -1,6 +1,6 @@
 # Ivan Carvalho
 # Solution to https://dmoj.ca/problem/cco10p6
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 # -*- coding : utf-8 -*-
 alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_"
 tamanho = 27
